@@ -1,0 +1,18 @@
+Package: deepin-menu
+Architecture: mips64el
+Version: 15.14~3.4.8-1
+Priority: extra
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 219
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.7.11), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5t64 (>= 5.6.0~beta), libstdc++6 (>= 4.1.1)
+Filename: ./d/deepin-menu/deepin-menu_15.14~3.4.8-1_mips64el.deb
+Size: 43728
+MD5sum: ec630483719cb884dd76866771ad0756
+SHA1: 15d919447b1f6f8105c5bfe42c2be7efa90a89c0
+SHA256: 91ed7f941ea2724d4e031ddae0f17bb23646ef362586301222737b9fead4f837
+SHA512: 010f2ee89ddd54d4cf97d205297c7dc2e3e17279ee3a9a44d297e731484cddcc30fbdc679985700beea48050b2baaac2bc4c66763a8da74e5ddf949660ff7efb
+Homepage: https://github.com/linuxdeepin/deepin-menu
+Description: Deepin menu service
+ Deepin menu service for building beautiful menus.
+

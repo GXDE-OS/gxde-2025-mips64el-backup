@@ -1,0 +1,18 @@
+Package: deepin-wayland-protocols
+Architecture: mips64el
+Version: 1.10.0.28-deepin28-1
+Priority: optional
+Section: libdevel
+Maintainer: Debian Qt/Deepin Maintainers <luochaojiang@uniontech.com>
+Installed-Size: 269
+Filename: ./deb/deepin-wayland-protocols_1.10.0.28-deepin28-1_mips64el.deb
+Size: 41964
+MD5sum: 729c012b2770affd0b0abb2a74730321
+SHA1: 873d02307fa7658efcfa87bfa3a35f1ed1785b85
+SHA256: b3f98a08502ccdde170119cc397873560549daf033d2599a209d2c5d409181c2
+SHA512: e9682d1f5a9937a1da4c51e4ca3476eb20ba2e382797b761575814244cd9a632f8c5da7b94d3fd86909501956d49038cea81bfc044879574653d40dabd8fe91c
+Homepage: https://gerrit.uniontech.com/admin/repos/snipe/deepin-wayland-protocols
+Description: Wayland protocols for Deepin
+ This package contains protocols for Wayland that are not standard, and used
+ in Deepin.
+

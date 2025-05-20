@@ -1,0 +1,18 @@
+Package: gxde-introduction
+Architecture: mips64el
+Version: 1.2.0
+Priority: optional
+Section: utils
+Maintainer: zhangdingyuan <zhangdingyuan@deepin.com>
+Installed-Size: 12124
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 5.5.5), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 4.1.1)
+Filename: ./g/gxde-introduction/gxde-introduction_1.2.0_mips64el.deb
+Size: 11150224
+MD5sum: 0d6db3af4ca3353ffb4f639561f61472
+SHA1: d1cdcd6b88f63b3dcbee2b5cd522282ce65ab791
+SHA256: 0fe9f4c802f1ba72de25c751df671629e6c81b2cea0270001dbc61b97fde2713
+SHA512: 6ab2148d9d7ac63cb5e59b3cb53002fb9e532d11d4982027c6d5eba460d18a09cd9f3c35c0dd0e01db61c414e3c380961bc5c3e5cd11a646d85eb56e928bb260
+Homepage: http://www.deepin.org
+Description: Introduction for GXDE
+ GXDE initialization setup tool
+

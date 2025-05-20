@@ -1,0 +1,18 @@
+Package: gxde-dict
+Architecture: mips64el
+Version: 0.9.0
+Priority: optional
+Section: utils
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 377
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.7.11), libdtkwidget2 (>= 15.14.3-2.2.9), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.3.0), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libx11-6, libxtst6 (>= 2:1.2.5)
+Recommends: gxde-daemon (>= 1.2.7)
+Filename: ./g/gxde-dict/gxde-dict_0.9.0_mips64el.deb
+Size: 75836
+MD5sum: 0974c24985917b2957b1be7dd6f92f9f
+SHA1: dd4c2982e176dcfb4e17db9ac04b7f3ae0adb024
+SHA256: 9c6e3a5d184c5caf6636883766851a8c1dcc6431bcf3a763cbf9a8cb16adbd40
+SHA512: 0b926bc3a63bf04d19ba06132c700dde250bc756e81b0b44d294f8f973388b4eb36eceb937191b5fa7c56ecd96396741afe0f6d91a39cee5268308e297a80b34
+Homepage: https://gitee.com/GXDE
+Description: GXDE youdao dictionary.
+

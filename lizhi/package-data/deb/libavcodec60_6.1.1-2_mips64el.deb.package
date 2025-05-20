@@ -1,0 +1,33 @@
+Package: libavcodec60
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 14025
+Depends: libaom3 (>= 3.2.0), libavutil58 (= 7:6.1.1-2), libc6 (>= 2.35), libcairo2 (>= 1.2.4), libcodec2-1.0 (>= 1.0.5), libdav1d6 (>= 0.9.0), libglib2.0-0 (>= 2.12.0), libgsm1 (>= 1.0.18), libjxl0.7 (>= 0.7.0), liblzma5 (>= 5.1.1alpha+20120614), libmp3lame0 (>= 3.100), libopenjp2-7 (>= 2.0.0), libopus0 (>= 1.1), librav1e0 (>= 0.5.1), librsvg2-2 (>= 2.52.5), libshine3 (>= 3.1.0), libsnappy1v5 (>= 1.1.9), libspeex1 (>= 1.2~), libsvtav1enc1 (>= 1.4.1+dfsg), libswresample4 (>= 7:6.0), libtheora0 (>= 1.0), libtwolame0 (>= 0.3.10), libva2 (>= 2.9.0), libvorbis0a (>= 1.1.2), libvorbisenc2 (>= 1.1.2), libvpx7 (>= 1.12.0), libwebp7 (>= 1.2.4), libwebpmux3 (>= 1.2.4), libx264-164 (>= 2:0.164.3095+gitbaee400), libx265-199 (>= 3.5), libxvidcore4 (>= 1.2.2), libzvbi0 (>= 0.2.35), zlib1g (>= 1:1.2.0)
+Filename: ./deb/libavcodec60_6.1.1-2_mips64el.deb
+Size: 4997688
+MD5sum: 86aad6832725caab1b5018dd733a84d9
+SHA1: 9ddc591d76ea1ab2fb225480280e0ee88acaf2c5
+SHA256: 8b286bdfb63afe330fa0952513c2f0a771d0d9599d02c87ef5ebdb8dd6dc9d03
+SHA512: d8e7c78979661eb81bb24634791675cd479e45894021fcd35f0969481a857f4aa9edd4f3ad193e91562846f573a268fa9c5f646a8d763389ab3bb48c80e60a83
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library with de/encoders for audio/video codecs - runtime files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library provides a generic encoding/decoding framework and
+ contains multiple decoders and encoders for audio, video and subtitle streams,
+ and several bitstream filters.
+ .
+ The shared architecture provides various services ranging from bit stream I/O
+ to DSP optimizations, and makes it suitable for implementing robust and fast
+ codecs as well as for experimentation.
+ .
+ This package contains the runtime files.
+

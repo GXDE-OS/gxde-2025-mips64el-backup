@@ -1,0 +1,17 @@
+Package: dde-dconfig-doc
+Architecture: mips64el
+Version: 1.0.29
+Priority: optional
+Section: libdevel
+Source: dde-app-services
+Maintainer: Deepin Packages Builder <yeshanshan@uniontech.com>
+Installed-Size: 175
+Filename: ./deb/dde-dconfig-doc_1.0.29_mips64el.deb
+Size: 105088
+MD5sum: 3b8cc4caa596e655eda026da7377a341
+SHA1: 08fec1ccaee62574657552fcd2572785912ae4bb
+SHA256: 4e09f36f42e2641626f3b21e091951434822b0fe4b523672f8f67de2b7648f41
+SHA512: eac0491cb005a6fbf40a689d55eab3a8b5ec21b4dc6901239c0fd58cc495ae0a6423cc0936ac83c418f83450fe2a5cee7adc069f251fadb5fccd8c7b7b2a9012
+Description: Deepin Tool Kit DConfig (document)
+ This package contains the doc files of DConfig
+

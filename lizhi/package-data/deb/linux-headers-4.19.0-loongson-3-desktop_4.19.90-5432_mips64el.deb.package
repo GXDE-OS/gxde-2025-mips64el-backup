@@ -1,0 +1,21 @@
+Package: linux-headers-4.19.0-loongson-3-desktop
+Architecture: mips64el
+Version: 4.19.90-5432
+Priority: optional
+Section: kernel
+Source: linux-4.19.0-loongson-3-desktop
+Maintainer: Anonymous <root@FB1-PC>
+Installed-Size: 58136
+Provides: linux-headers, linux-headers-2.6
+Filename: ./deb/linux-headers-4.19.0-loongson-3-desktop_4.19.90-5432_mips64el.deb
+Size: 8819298
+MD5sum: a76d9388687149030fa42771ea735dc4
+SHA1: c8994c3f5a7b8f863608e236975be63173075cda
+SHA256: 2024f02ca83f7cd04867632ac4f96028de737c52608501d8c54015de48fa88ef
+SHA512: 0e1dc212069c206c7a67f4a0519dc3d108040ef9b4f8d2c94b4e20299bab31f07135dcac5d2e74a5f03548632c18923a9d4eda0238ca6880526e98219672657b
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.19.0-loongson-3-desktop on mips64el
+ This package provides kernel header files for 4.19.0-loongson-3-desktop on mips64el
+ .
+ This is useful for people who need to build external modules
+

@@ -1,0 +1,19 @@
+Package: libdtkgui-doc
+Architecture: mips64el
+Version: 5.6.35
+Priority: optional
+Section: libdevel
+Source: dtkgui
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2816
+Filename: ./l/libdtkgui-doc/libdtkgui-doc_5.6.35_mips64el.deb
+Size: 1997668
+MD5sum: 7bbf92221d349dd6fd6dadfd9f688dda
+SHA1: dc9ba2716be04f829f2d5e7f10bf4a5b78f0addf
+SHA256: 57fc2890f06b3e55fdeb666127f37c5f57828f55c48e0b64b1b03a36cad4db72
+SHA512: 67286fc8fce9117f77f0ab9387837cc72e9e9cf27f1530d55ad91a93544a5bab804fe07fe68549c51a1c39c65e15d31b7de4a2fcefd0b76f3b6da90bccf51604
+Description: Deepin Tool Kit Gui (Document)
+ DtkGui is base devel library of Deepin Qt/C++ applications.
+ .
+ This package contains the qt Document of DtkGui
+

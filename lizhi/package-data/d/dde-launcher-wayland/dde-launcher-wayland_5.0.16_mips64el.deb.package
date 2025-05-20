@@ -1,0 +1,20 @@
+Package: dde-launcher-wayland
+Architecture: mips64el
+Version: 5.0.16
+Priority: optional
+Section: x11
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2772
+Depends: qtxdg-dev-tools, deepin-desktop-schemas, libdtkwidget5 (>= 5.6), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdframeworkdbus2 (>= 5.5.5), dde-daemon, startdde, lastore-daemon, libxcb-util0 | libxcb-util1, libc6 (>= 2.34), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 5), libxcb-ewmh2 (>= 0.4.1), libxcb1
+Conflicts: dde-workspace (<< 2.90.5)
+Filename: ./d/dde-launcher-wayland/dde-launcher-wayland_5.0.16_mips64el.deb
+Size: 479656
+MD5sum: 69fef8e4368b691a1381be621e64babc
+SHA1: f47adffb7b90eaa9f34a24ed2c158078367c6de0
+SHA256: c78a48a7a8c28f81ca27cdc6ab63e85d6257c55115902fd2ed81ad22321a9da5
+SHA512: 5202e21f2ab92938722f32ab407d7846db3e77560da95c58f47aca85075f4a9dafc859ed40468c0084e6e66e370fdf64fc8947a45bb9dd52eecd73e2c45c141a
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dde-launcher module
+ Deepin desktop environment 2015 - dde-launcher module.
+ Display all installation programs, and provide access to open, uninstall, boot and start, which is convenient for users to operate quickly
+

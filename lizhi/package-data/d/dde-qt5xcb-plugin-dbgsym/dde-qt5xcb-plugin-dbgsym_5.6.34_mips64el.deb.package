@@ -1,0 +1,19 @@
+Package: dde-qt5xcb-plugin-dbgsym
+Architecture: mips64el
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-qt5platform-plugins
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 6252
+Depends: dde-qt5xcb-plugin (= 5.6.34)
+Filename: ./d/dde-qt5xcb-plugin-dbgsym/dde-qt5xcb-plugin-dbgsym_5.6.34_mips64el.deb
+Size: 6163524
+MD5sum: f088dfbc8da91441a810ce55b124f66d
+SHA1: 60c18454085f15ae705d48dd6a29b887fb02ef0e
+SHA256: bb8c605f62d4c540a760a13d07ed8bc25e8064401fd2a8e02e77caa06d847f79
+SHA512: ed52effd03507123c8c9136419a7d7d8f18fd0aa46215e593839faa5ef48923eb5a2e97b7eba37d3d70c25326b67c137d69f6fa0ce33917494b32dc9292bb7b6
+Description: debug symbols for dde-qt5xcb-plugin
+Build-Ids: 2a9d569b4e2d1f1aea75487f761db2adb12a20e4
+

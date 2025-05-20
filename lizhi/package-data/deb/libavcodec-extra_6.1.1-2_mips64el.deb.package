@@ -1,0 +1,27 @@
+Package: libavcodec-extra
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: metapackages
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 81
+Depends: libavcodec-extra60 (= 7:6.1.1-2)
+Filename: ./deb/libavcodec-extra_6.1.1-2_mips64el.deb
+Size: 46952
+MD5sum: 5123e00f784be516c0b6d706209c82a1
+SHA1: 7e9c5cce23711c48b9b8b1c8671faad54a891587
+SHA256: 940cdaae96cc0eb058e39451761acc5e0b8975785d4839f4d95527455112b009
+SHA512: cd4eb93a90792a1468ddcec92e765e9d6f1a6e3e383e7ca9f5cd4354acf18d05b575a9b2a2b8bd3d3508c9ec9d065b7647c44a1a01977aa3f3c9362905a97700
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library with extra codecs (metapackage)
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This metapackage depends on the latest version of the libavcodec variant
+ that offers additional codec support. Application packages can depend
+ on it if they require or suggest this variant in a robust manner.
+

@@ -1,0 +1,21 @@
+Package: gxde-calendar
+Architecture: mips64el
+Version: 2.0.7
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 428
+Provides: dde-calendar
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), dde-api
+Conflicts: dde-calendar
+Replaces: dde-calendar
+Filename: ./g/gxde-calendar/gxde-calendar_2.0.7_mips64el.deb
+Size: 77908
+MD5sum: 686168e2650575cebab329b0527d8f24
+SHA1: b0b86243ab528fa8c21af0ecbde565f80fb6f096
+SHA256: 4965978e1964b52a3717dfefa9c5e8de6b06237e672714771447434ec5439b9a
+SHA512: f1449ee9e95b543475f613960bc576ef3b186666661285fe3eb896814aa9df6bf6cf190fa97320c90d8fe01a7ceb0197301175633e0eb2dd1efa022661bb55c3
+Homepage: http://www.gxde.org
+Description: Calendar software for GXDE OS
+ Calendar for GXDE Desktop Environment.
+

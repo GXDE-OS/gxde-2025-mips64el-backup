@@ -1,0 +1,18 @@
+Package: libdocparser
+Architecture: mips64el
+Version: 1.0.16
+Priority: optional
+Section: libdevel
+Source: docparser
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 1436
+Depends: libc6 (>= 2.33), libgcc-s1 (>= 3.0), libpoppler-cpp0v5 (>= 22.12.0), libpugixml1v5 (>= 1.8.1), libstdc++6 (>= 11), libtinyxml2-9 (>= 8.0.0), libuuid1 (>= 2.16), libxml2 (>= 2.7.4), libzip4 (>= 0.11.2)
+Filename: ./deb/libdocparser_1.0.16_mips64el.deb
+Size: 327084
+MD5sum: c888ff34a6ff341c4ce90d89f17ba9d8
+SHA1: e7d6e934c07341d6f162502db3c7ddba7e665f19
+SHA256: f1a2ce513bd6bb55f7df55c5bc377ba4e29f5a235648c691b865e497e1bba841
+SHA512: dd69ec26a1369c9709e85a42af2d97cc532553a7acccd80f446505c648c80f45f15aef2509f4d39532ce741ebbf06d84e37280d5eaabc4e7958cc48886a0e81e
+Description: Document parser library.
+ This package contains the shared libraries.
+

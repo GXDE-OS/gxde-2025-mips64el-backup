@@ -1,0 +1,19 @@
+Package: gxde-movie
+Architecture: mips64el
+Version: 3.3.0-2
+Priority: extra
+Section: libdevel
+Source: gxde-movie-reborn
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 2157
+Depends: libavcodec61 (>= 7:7.0), libavformat61 (>= 7:7.0), libavutil59 (>= 7:7.0), libc6 (>= 2.38), libdtkcore5 (>= 5.7.11), libdtkwidget2 (>= 2:2.3.2), libdvdnav4 (>= 4.1.3), libffmpegthumbnailer4v5 (>= 2.2.3), libgcc-s1 (>= 3.0), libgl1, libmpv2 (>= 0.7.0), libqt5concurrent5t64 (>= 5.6.0~rc), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.14.1), libqt5sql5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.11.0~rc1), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 14), libx11-6, libxcb-shape0, libxcb1, libxtst6 (>= 2:1.2.5)
+Filename: ./g/gxde-movie/gxde-movie_3.3.0-2_mips64el.deb
+Size: 455740
+MD5sum: 78e44c314669e643dbe568caeb6d5875
+SHA1: 896b18ced3e4b00241d4d7c1c36da390c56ff257
+SHA256: d2d62256684b0f3a9485dca057eccee7a1d69332bbf2a5b7b256fb72e8cbb4ed
+SHA512: a87e809a3014814c8b9ee9f981a8df75416f258e53cac5f3058688b90b49c3209fb71650e788afe557628470216c571bbe301b1301b1396fd50ecccdaec459a0
+Homepage: https://gitee.com/GXDE-OS/gxde-movie-reborn
+Description: movie player
+ movie player for GXDE desktop environment.
+

@@ -1,0 +1,19 @@
+Package: libdtk6widget-bin-dbgsym
+Architecture: mips64el
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtk6widget
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 329
+Depends: libdtk6widget-bin (= 6.0.34)
+Filename: ./deb/libdtk6widget-bin-dbgsym_6.0.34_mips64el.deb
+Size: 302136
+MD5sum: d3d1cf50d9590fc0d6f326686aa9b93d
+SHA1: f610cc7310f4f0bf884c1deb8eabe911d2d199b7
+SHA256: 296e1a40edee8f46908a8ab79ce642d80943063bf28b002d62feb61e4449a938
+SHA512: cfda7bd7cb4c67df2986163cc87195cf0cf1062ff20b400af74c3ddcf02a8763b74e3c5466ecd66afee3beaa8971d3d3351fbb176cbfba863da1c9db5c23fd3f
+Description: debug symbols for libdtk6widget-bin
+Build-Ids: ca5c64d6db2aed3350116101dbfc0c24dabc97e9
+

@@ -1,0 +1,21 @@
+Package: wlr-protocols
+Architecture: mips64el
+Version: 0.0+git20231016-0deepin
+Priority: optional
+Section: x11
+Maintainer: rewine <luhongxu@deepin.org>
+Installed-Size: 124
+Filename: ./deb/wlr-protocols_0.0+git20231016-0deepin_mips64el.deb
+Size: 20660
+MD5sum: c73cd0e4bc07369273fc4ce29ce630fc
+SHA1: 947c971bdd11041c8a8ea52bd7725197446980b8
+SHA256: addfb403b14b437c2484d8e1a5d0073c1f370c7550aa43cec47b3da915016fde
+SHA512: e1dbbf386678b5b56b82c5787d693f8542935dc286a05e299a23349066e4c719893baa97ae31f24f874d3f8324f0fe05bb3cd3f3b8eaf15ecc12f464822df542
+Homepage: https://gitlab.freedesktop.org/wlroots/wlr-protocols
+Description: Wayland protocols designed for use in wlroots
+  wlr-protocols contains Wayland protocols that add functionality not
+  available in the Wayland core protocol, and specific to wlroots-based
+  compositors. Such protocols either add completely new functionality, or
+  extend the functionality of some other protocol either in Wayland core,
+  or some other protocol in wayland-protocols.
+

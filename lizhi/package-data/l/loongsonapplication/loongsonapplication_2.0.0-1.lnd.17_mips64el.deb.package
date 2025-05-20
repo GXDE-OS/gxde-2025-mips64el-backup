@@ -1,0 +1,18 @@
+Package: loongsonapplication
+Architecture: mips64el
+Version: 2.0.0-1.lnd.17
+Priority: optional
+Section: utils
+Maintainer: loongsong <loongsong@loongson-pc>
+Installed-Size: 431560
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libdrm2, libgbm1, libxcb-dri3-0, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Filename: ./l/loongsonapplication/loongsonapplication_2.0.0-1.lnd.17_mips64el.deb
+Size: 82297008
+MD5sum: 714f253c7c8f7d3437f2c9d43fd28b8a
+SHA1: 13941779d8aff4b437b59623193ec70cd4a178fe
+SHA256: 059cdbc7a9706d307931841d9ae28995cc4cd6fc9befcd9cc0754eb6054a2645
+SHA512: 40821dc4df11dd889a8f74349fe6e036c03765e68991f15e7fe5c3a8faefd917e33e319ac1e7927c9a357d5faa1d3fd2eaa69d3bcd06cbcfd00e11241a9711a9
+Homepage: http://app.loongapps.cn/
+Description: 龙芯应用合作社
+ 龙芯应用合作社
+

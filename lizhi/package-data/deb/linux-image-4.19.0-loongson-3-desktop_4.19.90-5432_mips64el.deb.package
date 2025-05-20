@@ -1,0 +1,21 @@
+Package: linux-image-4.19.0-loongson-3-desktop
+Architecture: mips64el
+Version: 4.19.90-5432
+Priority: optional
+Section: kernel
+Source: linux-4.19.0-loongson-3-desktop
+Maintainer: Anonymous <root@FB1-PC>
+Installed-Size: 101880
+Provides: linux-image, linux-image-2.6, linux-modules-4.19.0-loongson-3-desktop
+Suggests: linux-firmware-image-4.19.0-loongson-3-desktop
+Filename: ./deb/linux-image-4.19.0-loongson-3-desktop_4.19.90-5432_mips64el.deb
+Size: 20171822
+MD5sum: 33e68cad794f4b26f821fcb91af68a7a
+SHA1: 848bb6da0649bd66a29a9807d0fdb426d26b52f3
+SHA256: 7961c9d42098a3b4d6d8c44bbbd65955f8132b8ba63c50fd3305977d03a904eb
+SHA512: 0e9fb2faf8eb4262e9a73a0189add88889f2633cd8a9884cb114211375f25d15b0bd47e583dc2342d35ceab772140b719724fd8e2665b64b83e792ae786a57c4
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.19.0-loongson-3-desktop
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.19.0-loongson-3-desktop.
+

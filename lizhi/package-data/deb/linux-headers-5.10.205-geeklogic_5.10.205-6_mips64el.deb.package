@@ -1,0 +1,20 @@
+Package: linux-headers-5.10.205-geeklogic
+Architecture: mips64el
+Version: 5.10.205-6
+Priority: optional
+Section: kernel
+Source: linux-5.10.205-geeklogic
+Maintainer: wells <wells@Shadow2>
+Installed-Size: 49989
+Filename: ./deb/linux-headers-5.10.205-geeklogic_5.10.205-6_mips64el.deb
+Size: 8314240
+MD5sum: e1b8639739ccf51dc7154b493b41b908
+SHA1: 2deb7dd91fdffc15475a4089c8561f1750067e6f
+SHA256: 8697238acba7dbe0c2bc2d7b237ddff21806dd9c78007928ecc4ab6ed2f33964
+SHA512: bc984a00b03333b6fb9b60cefade220c1950058f1ddccc62d2ae04ec0ba8d9d9796544c9aabb731fa3630abcfb53957386b3978ecc1ba9b8a16fd9f456ac3e2e
+Homepage: https://www.kernel.org/
+Description: Linux kernel headers for 5.10.205-geeklogic on mips64el
+ This package provides kernel header files for 5.10.205-geeklogic on mips64el
+ .
+ This is useful for people who need to build external modules
+

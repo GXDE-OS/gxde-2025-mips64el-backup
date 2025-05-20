@@ -1,0 +1,31 @@
+Package: libwayland-dev
+Architecture: mips64el
+Version: 1.23.0-1~gxde15
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: wayland
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 575
+Depends: libwayland-client0 (= 1.23.0-1~gxde15), libwayland-server0 (= 1.23.0-1~gxde15), libwayland-cursor0 (= 1.23.0-1~gxde15), libwayland-egl1 (= 1.23.0-1~gxde15), libwayland-bin (= 1.23.0-1~gxde15), libffi-dev
+Suggests: libwayland-doc
+Breaks: libegl1-mesa-dev (<< 18.0.5-0)
+Replaces: libegl1-mesa-dev (<< 18.0.5-0)
+Filename: ./deb/libwayland-dev_1.23.0-1~gxde15_mips64el.deb
+Size: 68980
+MD5sum: b410739b2651958d7851e6ab02585b88
+SHA1: 4f8e1e145af388743f2d76aa62bd6abdd10fd248
+SHA256: f9d49217da4f9b345e2568fac7d9ca7528099fd6123eae5d81940bc6a8b7ffab
+SHA512: d868b3c48a0224184ff9dd413d04a363bdebd0c05d4977bf102a9aac562f3b15ba24b7427d781aff67d7b6a2b7c71904ff127c8b13f0211ea23951cc7c047674
+Homepage: https://wayland.freedesktop.org/
+Description: wayland compositor infrastructure - development files
+ Wayland is a protocol for a compositor to talk to its clients as well
+ as a C library implementation of that protocol. The compositor can be
+ a standalone display server running on Linux kernel modesetting and
+ evdev input devices, an X application, or a wayland client
+ itself. The clients can be traditional applications, X servers
+ (rootless or fullscreen) or other display servers.
+ .
+ This package contains the development headers for the Wayland libraries.
+ Non-developers likely have little use for this package.
+

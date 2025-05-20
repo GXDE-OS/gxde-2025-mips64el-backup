@@ -1,0 +1,21 @@
+Package: gxde-kwin
+Architecture: mips64el
+Version: 5.7.1
+Priority: optional
+Section: devel
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 653
+Provides: dde-kwin, deepin-kwin-wayland, deepin-kwin-x11
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libgcc-s1 (>= 3.0), libgsettings-qt1 (>= 0.1+14.04.20140408), libkdecorations2-5v5 (>= 4:5.3.0), libkf5configcore5 (>= 4.97.0), libkf5coreaddons5 (>= 4.99.0), libkf5globalaccel-bin, libkf5globalaccel5 (>= 5.10.0), libkf5windowsystem5 (>= 4.100.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), kwin-x11, plasma-framework, qml-module-qtquick-controls2, qml-module-qtquick-templates2, kwin-wayland
+Conflicts: dde-kwin, deepin-kwin-common, deepin-kwin-data, deepin-kwin-dev, deepin-kwin-wayland, deepin-kwin-wayland-backend-drm, deepin-kwin-wayland-backend-fbdev, deepin-kwin-wayland-backend-virtual, deepin-kwin-wayland-backend-wayland, deepin-kwin-wayland-backend-x11, deepin-kwin-x11, libdeepin-kwineffects13, libdeepin-kwineffects14, libdeepin-kwinglutils13, libdeepin-kwinglutils14, libdeepin-kwinxrenderutils13, libdeepin-kwinxrenderutils14
+Replaces: dde-kwin
+Filename: ./deb/gxde-kwin_5.7.1_mips64el.deb
+Size: 97440
+MD5sum: a2b16bbe05c82b4c7ff78825f170a1bf
+SHA1: 88900c19d6651498c44997fac46c4782722bdc56
+SHA256: b3d246bdbb46a761e800b6fe9d5cfdfaedb6fb86f26259a00707af0ea3df1927
+SHA512: 28f66855425c89eea04b3674a89e5c1f87c87334d09c2e95d6f04fbdb3c646977320b344207dfae69b70bc2758fe7c72069fee2fd5269a36dbd09d63208233e6
+Homepage: https://gitee.com/GXDE-OS/gxde-kwin
+Description: KWin configures/plugins on the DDE
+ Let kwin work well in the Deepin Desktop Environment.
+

@@ -1,0 +1,18 @@
+Package: linux-kernel-gxde-mips64el
+Architecture: mips64el
+Version: 2025.04.26
+Priority: optional
+Section: utils
+Source: linux-kernel-gxde
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 9
+Depends: linux-image-loongson-3, linux-headers-loongson-3
+Filename: ./l/linux-kernel-gxde-mips64el/linux-kernel-gxde-mips64el_2025.04.26_mips64el.deb
+Size: 2412
+MD5sum: bb21331446ab9bddfa58673990a1efa0
+SHA1: 40a0008052e2936b58085938022fb45d7402d804
+SHA256: bc72d812d1381d5aa720ebab9676beedccaa8fade487ff3da0d5c9f37a3fa92e
+SHA512: 7fa51b38086957e76ed250cc610b6684e5f1da826197d8fe107800386e09a118e1b829eaa694f085c9fd0c37042c6e66261bc30efa745f5cfc75d5d03275e450
+Homepage: https://gitee.com/GXDE-OS/linux-kernel-gxde
+Description: GXDE Kernel For mips64el
+

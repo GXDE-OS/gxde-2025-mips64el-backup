@@ -1,0 +1,19 @@
+Package: dtk6-exhibition-dbgsym
+Architecture: mips64el
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtk6declarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 22229
+Depends: dtk6-exhibition (= 6.0.34)
+Filename: ./deb/dtk6-exhibition-dbgsym_6.0.34_mips64el.deb
+Size: 269284
+MD5sum: 8c0e3f77a76a7790c5bace640a636654
+SHA1: 57b7f553bb26bce82cc4e880f0a2017bb938c496
+SHA256: 776e70a59f3bf6c0f55ff9ad94d817583e0b8aee92ffdc368937e9b336fac5b9
+SHA512: 4ad56bc78b1485a3e20df1ee18601aa824a7d2279880f91bfcc7dc7aa0a5d7a6f24c3c9cd0dd23f8e29f9b55b8f0d90d3b6af5d66531a15000f4ec78fa86ff39
+Description: debug symbols for dtk6-exhibition
+Build-Ids: 18287a6a8481073a5a93f5a886dce16f7fcdd432
+

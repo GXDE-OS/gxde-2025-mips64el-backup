@@ -1,0 +1,21 @@
+Package: qemu-system-gui
+Architecture: mips64el
+Version: 1:3.1+dfsg.8.lnd.15
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: qemu
+Maintainer: Debian QEMU Team <pkg-qemu-devel@lists.alioth.debian.org>
+Installed-Size: 204
+Depends: libc6 (>= 2.4), libcairo2 (>= 1.2.4), libepoxy0 (>= 1.0), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.12.0), libgtk-3-0 (>= 3.21.4), libpulse0 (>= 0.99.1), libvte-2.91-0 (>= 0.49.92), libx11-6
+Filename: ./deb/qemu-system-gui_1%3a3.1+dfsg.8.lnd.15_mips64el.deb
+Size: 87432
+MD5sum: d5a033f56be5ea6b7e33eb79fbee199f
+SHA1: 4eb71a5245bac453489c380c64bfccd91d6a9e35
+SHA256: d6410f375d825bef6c8219f296555c4dee46a2a0e5577f64d204b55f1a25f446
+SHA512: b3f5152892c9595da35e8c7cadc645c96f9fc52089894e70012c51b6409fa65b51d9ddcb9bb5869add9cce4245feac67bedcdbd2581119467793a9847fe2e707
+Homepage: http://www.qemu.org/
+Description: QEMU full system emulation binaries (user interface and audio support)
+ This package provides local graphical user interface (currently GTK)
+ and audio backends for full system emulation (qemu-system-*) packages.
+

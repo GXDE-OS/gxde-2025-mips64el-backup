@@ -1,0 +1,37 @@
+Package: libcapstone3
+Architecture: mips64el
+Version: 4.0.1+really+3.0.5-1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: capstone
+Maintainer: Debian Security Tools <team+pkg-security@tracker.debian.org>
+Installed-Size: 3044
+Depends: libc6 (>= 2.4)
+Filename: ./deb/libcapstone3_4.0.1+really+3.0.5-1_mips64el.deb
+Size: 366888
+MD5sum: 3fb33597fea5e2ac995d6e59d7cc7512
+SHA1: d41f533037b8eebd4dd3bbbbc125f4961b6dde73
+SHA256: 7954491a429e3f7733d19ad4c43b69cfa4eddce3e60bf683acd07dff975acd02
+SHA512: 9eb59c864872e2e5c1996f06289640697afeae9282b4db2f7d22d6d4d2fd7d3d7efb60e66a55b0689eac4e4abb36ca19d527d310b7c06f5fe95f715b90f8982a
+Homepage: http://www.capstone-engine.org/
+Description: lightweight multi-architecture disassembly framework - library
+ Capstone is a lightweight multi-platform, multi-architecture disassembly
+ framework.
+ .
+ Features:
+  - Support hardware architectures: ARM, ARM64 (aka ARMv8), Mips, PowerPC &
+ Intel.
+  - Clean/simple/lightweight/intuitive architecture-neutral API.
+  - Provide details on disassembled instructions (called "decomposer" by some
+ others).
+  - Provide some semantics of the disassembled instruction, such as list of
+ implicit registers read & written.
+  - Implemented in pure C language, with bindings for Java, OCaml and Python
+ ready to use and Ruby, C#, GO & Vala available on git repos.
+  - Native support for Windows & *nix (with OS X, Linux, *BSD & Solaris
+ confirmed).
+  - Thread-safe by design.
+  - Special support for embedding into firmware or OS kernel.
+  - Distributed under the open source BSD license.
+

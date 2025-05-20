@@ -1,0 +1,19 @@
+Package: dde-qt5wayland-plugin-dbgsym
+Architecture: mips64el
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-qt5platform-plugins
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3560
+Depends: dde-qt5wayland-plugin (= 5.6.34)
+Filename: ./d/dde-qt5wayland-plugin-dbgsym/dde-qt5wayland-plugin-dbgsym_5.6.34_mips64el.deb
+Size: 3495568
+MD5sum: 5e82538bffc392de9eedc7ff48b2ffb3
+SHA1: 447905417205561a99030804076c248a45bb6bba
+SHA256: afdca4302fc25fbd96043c16f32add28f3b724033cff88d4696fa9424abfd5fe
+SHA512: 225a0b406c0cbcd6d510e2e49d15e4fa11103c417fb375d46f9c744bb6cdc0920e2234f150ec4db36b447a26b0925efe819d8446e73c88bb94c2689fea7afb45
+Description: debug symbols for dde-qt5wayland-plugin
+Build-Ids: 3b7e9cb2868239ad81296f5776df62023b7b64db ec326bd0568d7333c9fd6bed9cc9ca28c103e8d6
+

@@ -1,0 +1,32 @@
+Package: libgnome-keyring0-dbg
+Architecture: mips64el
+Version: 3.12.0-2
+Multi-Arch: same
+Priority: extra
+Section: debug
+Source: libgnome-keyring
+Maintainer: Debian GNOME Maintainers <pkg-gnome-maintainers@lists.alioth.debian.org>
+Installed-Size: 259
+Depends: libgnome-keyring0 (= 3.12.0-2)
+Filename: ./deb/libgnome-keyring0-dbg_3.12.0-2_mips64el.deb
+Size: 208260
+MD5sum: bcfc24596518095887f9d09111a8899e
+SHA1: 37901801f87f322700a2522e37b5aea852f74ceb
+SHA256: 4a5884e94d9be6656fc4f5d6b044f2bb633e277dadee7e489ac7c0ac710c6a3e
+SHA512: 207af96217f4508995b4aeebd8a8cc7ceda5d3d009c9557e6ad1dbf3ec9205789c3eaee5925b9267c07fcc5b4417b335fc7d35724f1152347a96580a0087a706
+Homepage: https://wiki.gnome.org/GnomeKeyring
+Description: GNOME keyring services library (debugging symbols)
+ gnome-keyring is a daemon in the session, similar to ssh-agent,
+ and other applications can use it to store passwords and other
+ sensitive information.
+ .
+ The program can manage several keyrings, each with its own master
+ password, and there is also a session keyring which is never stored to
+ disk, but forgotten when the session ends.
+ .
+ This package contains detached debugging symbols for the shared
+ libraries.
+ .
+ Most people should not need this package.
+Build-Ids: 864db2daa0765ac3ab9e17204c40512a621ba44d
+

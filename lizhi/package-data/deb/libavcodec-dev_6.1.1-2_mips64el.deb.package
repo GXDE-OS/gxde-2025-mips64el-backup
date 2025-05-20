@@ -1,0 +1,33 @@
+Package: libavcodec-dev
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 22011
+Depends: libavcodec60 (= 7:6.1.1-2), libavutil-dev (= 7:6.1.1-2), libswresample-dev (= 7:6.1.1-2)
+Filename: ./deb/libavcodec-dev_6.1.1-2_mips64el.deb
+Size: 5878688
+MD5sum: 3eb24cf47d7e82782bded7c0d1f59b89
+SHA1: 2eadf648ad6d329440675b10944979d4e45c971b
+SHA256: ec1b6002adad21d17e34154b10230be7e4917e708412df1f7c00df17fe2c57c1
+SHA512: ded3bf591b5f8ae697c5fefef625bf14d13bf74dbc80e74c608568ce90c33e19a01742a80839346446cabf75f1c672c17b89b97399dbdfa1f455f163f321b958
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library with de/encoders for audio/video codecs - development files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library provides a generic encoding/decoding framework and
+ contains multiple decoders and encoders for audio, video and subtitle streams,
+ and several bitstream filters.
+ .
+ The shared architecture provides various services ranging from bit stream I/O
+ to DSP optimizations, and makes it suitable for implementing robust and fast
+ codecs as well as for experimentation.
+ .
+ This package contains the development files.
+

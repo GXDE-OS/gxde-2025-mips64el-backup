@@ -1,0 +1,18 @@
+Package: libdtk6declarative-doc
+Architecture: mips64el
+Version: 6.0.34
+Priority: optional
+Section: libs
+Source: dtk6declarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3670
+Filename: ./deb/libdtk6declarative-doc_6.0.34_mips64el.deb
+Size: 2986564
+MD5sum: b9a5e1cb22cd960835d8487926efc011
+SHA1: 231f655c0787d967949b21efb1cc6077b2dcae26
+SHA256: c604e926b9a77369f1e4d99e87b146b0b95f833c7b0db85a990c2e7ca1bc4b35
+SHA512: 046feaf53e9511603fc5d779a83899c8a7c2659ff832c1ca72ae738f9ed77bb94aec89909764f939f91c2e0cbc8c6db6f32ce82eec38429f11e273a697805971
+Homepage: http://www.deepin.org
+Description: Deepin Tool Kit Gui Devel library (Document)
+ Dtkdeclarative is base library of Deepin Qt/QtQuick applications.
+

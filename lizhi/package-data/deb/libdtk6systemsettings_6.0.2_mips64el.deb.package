@@ -1,0 +1,20 @@
+Package: libdtk6systemsettings
+Architecture: mips64el
+Version: 6.0.2
+Priority: optional
+Section: libdevel
+Source: dtk6systemsettings
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 2245
+Depends: libc6 (>= 2.7), libcrypt1 (>= 1:4.1.0), libdtk6core (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.8.2), libstdc++6 (>= 5.2)
+Filename: ./deb/libdtk6systemsettings_6.0.2_mips64el.deb
+Size: 290156
+MD5sum: b8b453ef759959ca2b3ac18383566be0
+SHA1: b860d16e373ac69b7c48d1ea56630ecfff77b0f6
+SHA256: c3f1fe7d04e2c28212ee8a4a00ce0a2bc5f3ebc6e6540329d59ac20acd206c36
+SHA512: 9f46dcb5e819915170b8f4c821717b3252c5097bdde6ca173574afe1b990cbe1355fbb821de07fe7dafee417330e136018102877125b0562481d496dde4c742a
+Description: Deepin Tool Kit template library
+ libdtk6systemsettings is base library of Deepin Qt/C++ applications.
+ .
+ This package contains the shared libraries.
+

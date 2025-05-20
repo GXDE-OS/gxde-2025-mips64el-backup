@@ -1,0 +1,26 @@
+Package: libpcre3-dev
+Architecture: mips64el
+Version: 2:8.39-15
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: pcre3
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 2926
+Depends: libc-dev, libpcre3 (= 2:8.39-15), libpcre16-3 (= 2:8.39-15), libpcre32-3 (= 2:8.39-15), libpcrecpp0v5 (= 2:8.39-15)
+Filename: ./deb/libpcre3-dev_8.39-15_mips64el.deb
+Size: 669548
+MD5sum: 74f7d5f2aa1607e648fe67e94e85455b
+SHA1: 8910d872de175f2a19c961404302e76588cc1c75
+SHA256: 84c1ab52f404e0129c6b419a5da67edcdb3de3a97b0944d161ee6f642233b1da
+SHA512: 8e7d6a780d3a76a5f56d8dd32da9cf273a36c9048ae1e439af844fd27054474325bdf868178621ff3a9412f2d406b158f49bdc6a250f8a3e6e80d19762a7e4eb
+Description: Old Perl 5 Compatible Regular Expression Library - development files
+ This is a library of functions to support regular expressions whose syntax
+ and semantics are as close as possible to those of the Perl 5 language.
+ .
+ New packages should use the newer pcre2 packages, and existing
+ packages should migrate to pcre2.
+ .
+ This package contains the development files, including headers, static
+ libraries, and documentation.
+

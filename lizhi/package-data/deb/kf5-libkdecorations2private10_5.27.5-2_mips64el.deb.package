@@ -1,0 +1,27 @@
+Package: kf5-libkdecorations2private10
+Architecture: mips64el
+Version: 4:5.27.5-2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: kdecoration
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 89
+Provides: libkdecorations2private10 (= 4:5.27.5-2)
+Depends: libc6 (>= 2.4), libqt5core5t64 (>= 5.15.2~), libqt5gui5t64 (>= 5.15.2~) | libqt5gui5-gles (>= 5.15.2~), libstdc++6 (>= 4.1.1)
+Conflicts: libkdecorations2private10
+Breaks: kwin-common (<< 4:5.26.70), kwin-wayland (<< 4:5.26.70), kwin-wayland-backend-drm (<< 4:5.26.70), kwin-wayland-backend-fbdev (<< 4:5.26.70), kwin-wayland-backend-virtual (<< 4:5.26.70), kwin-wayland-backend-wayland (<< 4:5.26.70), kwin-wayland-backend-x11 (<< 4:5.26.70), kwin-x11 (<< 4:5.26.70)
+Filename: ./deb/kf5-libkdecorations2private10_5.27.5-2_mips64el.deb
+Size: 10208
+MD5sum: fd1809e2c577228b85880e96484952b9
+SHA1: dea8906e885cb0d8123e5c872c46f439fdc0705f
+SHA256: 5c5bed53ea09495f26a1252011d015b7124cd629da96d6f5b22add200bb15426
+SHA512: 78f82f8d87db7e5122bfc1c7b6f26bad7dc836a8680a3f8dc47d566d2252ef0e8251312ec6066c1100b46147efaae6f786ae1c434621e83ef6722b7bca44ed01
+Homepage: https://invent.kde.org/plasma/kdecoration
+Description: library to create window decorations - private library
+ KDecoration2 is a library to create window decorations. These window
+ decorations can be used by for example an X11 based window manager
+ which re-parents a Client window to a window decoration frame.
+ .
+ This package contains the private library parts that are not considered stable.
+

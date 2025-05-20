@@ -1,0 +1,21 @@
+Package: libdtkdata
+Architecture: mips64el
+Version: 5.6.35
+Priority: optional
+Section: libdevel
+Source: dtkcommon
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 15
+Provides: libdtkcommon
+Conflicts: libdtkcommon (>= 5.7.12)
+Replaces: libdtkcommon
+Filename: ./l/libdtkdata/libdtkdata_5.6.35_mips64el.deb
+Size: 3708
+MD5sum: 310d086c8c59f2f7fcd5e303aeb6a134
+SHA1: db38a6c660a7a655ecbc2b4b5ba49abce1e9a92f
+SHA256: 6f105af80b87ca4e5084e39006cd002224374f87c8a92ebfc00b9292727c8172
+SHA512: 30d2295054d712e0246c54b43863d907872e4a7194b1a61047a861aee0dde3ee9f192725c65f71e3cb2c06a814a50f2083a4e1aebfc5242cb0d44884d5737efc
+Homepage: http://www.deepin.org/
+Description: dtk common files
+ Used to store public configuration files
+

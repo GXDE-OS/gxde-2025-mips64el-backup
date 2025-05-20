@@ -1,0 +1,19 @@
+Package: dde-dock-dbgsym
+Architecture: mips64el
+Version: 4.15.2
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 6765
+Depends: dde-dock (= 4.15.2)
+Filename: ./deb/dde-dock-dbgsym_4.15.2_mips64el.deb
+Size: 5361720
+MD5sum: e5fd4cf616bee927f2916b8afa3642a3
+SHA1: 1987215720471a16b99df7ae265791d1fa93d68b
+SHA256: b793122debcb39fa74f014bd8490028a4f2632439afb5ac464a46a4198f72807
+SHA512: 8c75c7d03be65d63f396ff3cd2766aa2acc57ba333fabadb0c88a8da212429f356ac04b619c1db9a02b724e53e7c67bce65db4420e809c1691a3e0e90a2ee4d4
+Description: debug symbols for dde-dock
+Build-Ids: 046f12189bfbd96e1ad27950941e914d85e4c537 0485ec571f7f87402903707e95fec1bba5136570 10107da2cb5a09960863172109f951476887c2f9 11f61a126c59e6cae84fc0633c4831be1ae54ce1 2c4de7bfbce25d1b5b6e03df1aeab14c99f56288 3e36a526ea9265d06e27f7f001cb587497b5a7f0 41ff8496a0910c39eb34c7823e44fc0124352ce3 6a688d2c710d7cf7246fc311fc66cdc912e5c7ec 8dd1836aed9ecc205542a9a57ea9dc805c151a57 c5c8e473bc3c682bf8ea137701b6562d26b4b58c cc730e84347374864c5edd562930006444ca37bf f7a28cefa28a85d61fcafa44ff9778a02d47226d
+

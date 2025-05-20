@@ -1,0 +1,18 @@
+Package: dde-dock-dev
+Architecture: mips64el
+Version: 4.15.2
+Priority: optional
+Section: x11
+Source: dde-dock
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 32
+Filename: ./deb/dde-dock-dev_4.15.2_mips64el.deb
+Size: 5804
+MD5sum: b833a7b0162a825cfe740b0fd19560a8
+SHA1: 31cc6c36ad2a0a373ba0439db4dcef35d6faee13
+SHA256: 75cb7772a51836afb8e6be4d71e87b89b3003d8bac0f4041f6f0c42d334f64cf
+SHA512: bdce24e5bf3c31381200ea3fa1423ef07b97660202e88d72181a810a3fef78600e4d843210606abdc5810a3ae0c6006bf498c4e47ed04b09dd81249db0d2b258
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dock module development files
+ Deepin desktop environment - dock module development files.
+

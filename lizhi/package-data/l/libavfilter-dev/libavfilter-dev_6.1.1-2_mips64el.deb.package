@@ -1,0 +1,28 @@
+Package: libavfilter-dev
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 9298
+Depends: libavcodec-dev (= 7:6.1.1-2), libavfilter9 (= 7:6.1.1-2), libavformat-dev (= 7:6.1.1-2), libavutil-dev (= 7:6.1.1-2), libpostproc-dev (= 7:6.1.1-2), libswresample-dev (= 7:6.1.1-2), libswscale-dev (= 7:6.1.1-2)
+Filename: ./l/libavfilter-dev/libavfilter-dev_6.1.1-2_mips64el.deb
+Size: 1866876
+MD5sum: d858c2ff3a1d7cb575fa530275ab4f1e
+SHA1: 5a9ea96045628c150cb62bac8cb632872f5d2b10
+SHA256: f449b82bf0ed567627ff159c41e0fe8e498f56dd76c41fac2c87cf579a91eaba
+SHA512: 73fc52cd357d3ea4560587092ef16c9c5d7941407238a49fb39a99c235946ee87fb2d17cab093c6e1e549cb5fc3fbaa3a35154f0286b3df7628847d7e1ca706c
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library containing media filters - development files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library provides a generic audio/video filtering framework containing
+ several filters, sources and sinks.
+ .
+ This package contains the development files.
+

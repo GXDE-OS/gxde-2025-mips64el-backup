@@ -1,0 +1,19 @@
+Package: dde-requ
+Architecture: mips64el
+Version: 1.0.1
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo<shenmo@spark-app.store>
+Installed-Size: 85
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.5.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: ./deb/dde-requ_1.0.1_mips64el.deb
+Size: 22428
+MD5sum: f724356fe929658645e5ce9b797ca0bf
+SHA1: 52c69ca17d2b456e7fd0bf2778094386f3de2f18
+SHA256: 35c8b51416aedea7f6ecb93342b04cde42f7a800f6accf6578a1c0fcadafc0ac
+SHA512: 59a313c0fad3e859c94d81e83d5c4347c5069326e9628694cae072a4e9811a414dac7e280e3e8158d181035296ac4aaf290dd94866e5d341265af9457f2cca13
+Homepage: https://gitee.com/GXDE-OS/dde-requ
+Description: A tool to start 热区
+ A tool to start 热区
+

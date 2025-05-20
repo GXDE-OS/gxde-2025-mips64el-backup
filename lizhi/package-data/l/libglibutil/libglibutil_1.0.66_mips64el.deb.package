@@ -1,0 +1,16 @@
+Package: libglibutil
+Architecture: mips64el
+Version: 1.0.66
+Priority: optional
+Section: libs
+Maintainer: Slava Monich <slava.monich@jolla.com>
+Installed-Size: 78
+Depends: libc6 (>= 2.8), libglib2.0-0 (>= 2.37.3)
+Filename: ./l/libglibutil/libglibutil_1.0.66_mips64el.deb
+Size: 20376
+MD5sum: c8ff4c7673dce89c64ff9de327375f95
+SHA1: c86256f8dd2b4a633b671e75829e0c4be7266680
+SHA256: 85e859f98f20f64396989d4205c7b96e09b2c5b60da3c69b6925ee92835b940e
+SHA512: a9b1891363c1b553adf73fb8cd9c1c6607e929395cf4a91b544b094510645fe908b98c180cb79cc908e399a2c0ed71f2371c445b09993e01473e1f45c37d678d
+Description: Library of glib utilities
+

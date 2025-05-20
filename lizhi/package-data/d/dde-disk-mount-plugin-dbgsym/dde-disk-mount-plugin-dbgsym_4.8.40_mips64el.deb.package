@@ -1,0 +1,19 @@
+Package: dde-disk-mount-plugin-dbgsym
+Architecture: mips64el
+Version: 4.8.40
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 3363
+Depends: dde-disk-mount-plugin (= 4.8.40)
+Filename: ./d/dde-disk-mount-plugin-dbgsym/dde-disk-mount-plugin-dbgsym_4.8.40_mips64el.deb
+Size: 3357276
+MD5sum: e38d93ab8fb2b9d06f30e2a4d74970db
+SHA1: 2a81e0482d3c11b3f8463f785237ca6830efc139
+SHA256: bc778f1219640333214705ddd47376b513eedb218d1ddd838fdbcf6728573ac9
+SHA512: a305cb80d39cf784f628aa1b31fb51d31b5b4357423a824fa02529343993e1416a9e67bf5ca1e612d742a52ebd220141ded32c87cae9343fa3d854fee6a1bf53
+Description: debug symbols for dde-disk-mount-plugin
+Build-Ids: 1eb855652c0fe3b769259667c3de77fbf7ad9752
+

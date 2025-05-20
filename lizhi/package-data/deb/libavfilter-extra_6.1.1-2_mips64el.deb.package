@@ -1,0 +1,27 @@
+Package: libavfilter-extra
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: metapackages
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 81
+Depends: libavfilter-extra9 (= 7:6.1.1-2)
+Filename: ./deb/libavfilter-extra_6.1.1-2_mips64el.deb
+Size: 46948
+MD5sum: 9f372e7226a70b78abec5fce1bd88a39
+SHA1: 696f7d99929c7fb09554c4705a1c1a5386b088eb
+SHA256: 57468f16473fc84e25e233ceb6c07032649c0f33403caf55a6a59fb217bb4424
+SHA512: da639abdea35a41a6f96269b6ecaac5511f9dd367c0ea60805130cc0a7093b1059fdecd97933c1bc5bbfa8cd895c9b812dcdecad29f3688ea0d10b3e7ac23ebf
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library with extra filters (metapackage)
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This metapackage depends on the latest version of the libavfilter variant
+ that offers additional filter support. Application packages can depend
+ on it if they require or suggest this variant in a robust manner.
+

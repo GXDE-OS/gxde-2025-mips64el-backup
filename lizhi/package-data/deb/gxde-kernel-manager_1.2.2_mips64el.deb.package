@@ -1,0 +1,18 @@
+Package: gxde-kernel-manager
+Architecture: mips64el
+Version: 1.2.2
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 1342
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.7.0), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqtermwidget5-1 (>= 1.2.0), libstdc++6 (>= 5), apt
+Filename: ./deb/gxde-kernel-manager_1.2.2_mips64el.deb
+Size: 864716
+MD5sum: 27811457247c2462f50a3e3722134f29
+SHA1: ce159dc726571660544238cdb21b570fbb4e7271
+SHA256: ec0ed2983e341c81ecb22b2f11757b8b3631d2e5a9ba899702a18396b9990821
+SHA512: 41d8a2f234c0d494c68d8185feb18dc9126680c4186f3116b88e2a95a2e9f6c61c1cb42dae882bb8d5f577b547eb0245f423cf73907adc23f54d8656ae9fb1c3
+Homepage: https://gitee.com/GXDE-OS/gxde-kernel-manager
+Description: GXDE 内核管理器是一个帮助用户更方便获取、安装、移除内核的工具。
+ GXDE Kernel Manager is a kernel manager allows users to install or remove kernels easily.
+

@@ -1,0 +1,21 @@
+Package: spark-webapp-runtime
+Architecture: mips64el
+Version: 1.8
+Priority: optional
+Section: utils
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 597
+Provides: store.spark-app.spark-webapp-runtime
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5webenginecore5 (>= 5.14.1), libqt5webenginewidgets5 (>= 5.14.1), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 12)
+Conflicts: store.spark-app.spark-webapp-runtime
+Replaces: store.spark-app.spark-webapp-runtime
+Filename: ./s/spark-webapp-runtime/spark-webapp-runtime_1.8_mips64el.deb
+Size: 153116
+MD5sum: b074d9400bdec9eca55b8f544859804b
+SHA1: 1b0341f5e113adc3afc6517f59a8fcac93b545e1
+SHA256: b84e288b7b83ac6abf601743c7f18b69136ef370ef7d8f15f874302194e2af23
+SHA512: 11a5378db02ecf0abfd78dd4e9a812b638983dfaf5c99661af6c2c2815ca99720b8e5f87a9963c5a0534adca166b07e730d40bab848d62606070c72f0d52f4fe
+Homepage: https://gitee.com/deepin-community-store/spark-web-app-runtime
+Description: Spark WebApp Runtime
+ A simple solution for packaging web apps.
+

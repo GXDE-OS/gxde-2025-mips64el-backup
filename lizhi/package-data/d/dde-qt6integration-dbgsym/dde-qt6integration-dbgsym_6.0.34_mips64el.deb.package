@@ -1,0 +1,19 @@
+Package: dde-qt6integration-dbgsym
+Architecture: mips64el
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: qt6integration
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 4283
+Depends: dde-qt6integration (= 6.0.34)
+Filename: ./d/dde-qt6integration-dbgsym/dde-qt6integration-dbgsym_6.0.34_mips64el.deb
+Size: 4137980
+MD5sum: 6a6f636e5e8fcb0d43bd94b7f28baa67
+SHA1: d026727e4ed903ace80adde1ed72ef24aaa15c0c
+SHA256: 1b0e47a5b43a7255a9a42de2777e8796c47dced140568c8ef9c8cdd39191c085
+SHA512: 9b60b8436df83820c0ba3cc105c8b600dd65118a038891cdec04c4863c22bdb30a599f507ef60a844bd95481faa3c84a687e2f941a86d08ac129caaf0d2ea08c
+Description: debug symbols for dde-qt6integration
+Build-Ids: 6a088dd2bb94c1dce4125e4eac7cc1e463e35bb6 7596276a6243707e16380e56f3d8a806946f9f26 8ebc24377e5597c80e5a9f83031dddf7ef4425cf 9620dfcd2a0c57a55d9170d572b330d56b30b268 bedec9e48e4b0cb904851e87970df41426f7bad0 c8fc6bdb51c2e9515513802a6e9e56ae6a2c029e
+

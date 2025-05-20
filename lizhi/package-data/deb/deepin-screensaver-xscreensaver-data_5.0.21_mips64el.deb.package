@@ -1,0 +1,19 @@
+Package: deepin-screensaver-xscreensaver-data
+Architecture: mips64el
+Version: 5.0.21
+Priority: optional
+Section: devel
+Source: deepin-screensaver
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1234
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.9.0~beta), libstdc++6 (>= 5.2), libx11-6, xscreensaver-data-extra, xscreensaver-gl-extra, qml-module-qt-labs-platform, gxde-time-screensaver
+Recommends: mimicry-clock-screensaver
+Filename: ./deb/deepin-screensaver-xscreensaver-data_5.0.21_mips64el.deb
+Size: 736452
+MD5sum: 6b1bcd852078af40a9c757f81c28186d
+SHA1: 5be9a3512d2f3fa572c880f4cc2443169c982484
+SHA256: 0a3966b87e5138b56f6e060fbdb601b52822cc51098bd2e6c00c9e2e91364b09
+SHA512: 5c6080c25e1a1ad2638b314389e56e6dec7d135e2750d45ba2f8c66a91ce5c5d3903b9cc0fb5260a9f3fcc3c24806628b068f895f73525affc0612a6bb5420f5
+Description: Screensaver data
+ xscreensaver extra with the Deepin Screensaver.
+

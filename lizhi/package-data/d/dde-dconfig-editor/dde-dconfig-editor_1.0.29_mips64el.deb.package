@@ -1,0 +1,21 @@
+Package: dde-dconfig-editor
+Architecture: mips64el
+Version: 1.0.29
+Priority: optional
+Section: libdevel
+Source: dde-app-services
+Maintainer: Deepin Packages Builder <yeshanshan@uniontech.com>
+Installed-Size: 561
+Depends: libc6 (>= 2.34), libdtk6core (>= 6.0), libdtk6widget (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.8.2), libqt6gui6 (>= 6.1.2), libqt6widgets6 (>= 6.3.0), libstdc++6 (>= 14)
+Conflicts: dconfig-editor
+Replaces: dconfig-editor
+Filename: ./d/dde-dconfig-editor/dde-dconfig-editor_1.0.29_mips64el.deb
+Size: 125756
+MD5sum: c7ca016b0ea6dbd0ea1c560e9d54b992
+SHA1: c4d4a7f5df99c210bf98bead24776f6fd50af782
+SHA256: cdc5cfd2ef1e3d196de90fa3a3d561fb85e7863b540aa9e9a1292bae12d58d40
+SHA512: 9bb0d409c3982926f5328d80da3defc9ed44bdc938fb943b92de97c727965e827b6aa8fba91b8c0fb22771177ff63f2611b867ced437fe65005f3252510c2673
+Description: deepin desktop-environment - dde-dconfig-editor module
+ dde-dconfig-editor is a GUI or Console tool, it's used to view and edit
+ DSG configuration for current user.
+

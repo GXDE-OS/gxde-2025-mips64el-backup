@@ -1,0 +1,18 @@
+Package: gxde-download
+Architecture: mips64el
+Version: 1.0.0
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 836
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14-2.2.5.8), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), aria2
+Filename: ./deb/gxde-download_1.0.0_mips64el.deb
+Size: 152700
+MD5sum: 5a4e15849389c27864ade1f06ca0ef4e
+SHA1: 30f2987f57f4b4f3004aef256d073373cf5bbab9
+SHA256: 8ae200f41c4095e2d4597a79b7efee58b830d32d8504b2d56e37307fa16bb908
+SHA512: 1397cc42f5fa9431dc5c076030ea788a16e0d6d374df74671313ba84f039d7f562a4592a111979345b20c8d72d52770a02e4c56c1ec6bfc2bef384c618b205ff
+Homepage: http://www.deepin.org
+Description: GXDE download utils
+ A download utils for GXDE.
+

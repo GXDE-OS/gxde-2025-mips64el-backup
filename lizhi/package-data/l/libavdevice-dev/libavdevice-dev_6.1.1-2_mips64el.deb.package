@@ -1,0 +1,29 @@
+Package: libavdevice-dev
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 511
+Depends: libavcodec-dev (= 7:6.1.1-2), libavdevice60 (= 7:6.1.1-2), libavfilter-dev (= 7:6.1.1-2), libavformat-dev (= 7:6.1.1-2), libavutil-dev (= 7:6.1.1-2), libpostproc-dev (= 7:6.1.1-2), libswscale-dev (= 7:6.1.1-2), libswresample-dev (= 7:6.1.1-2)
+Filename: ./l/libavdevice-dev/libavdevice-dev_6.1.1-2_mips64el.deb
+Size: 124552
+MD5sum: b0b5da0895a106667bc19ba0157814c3
+SHA1: 1fdcc955826638078d9b0d4ca108c8068f6fa9aa
+SHA256: 7a3e32471e8f9c63c52ed12e4f5aba74642cb1fa295f97bb1006ff36f55eaa2d
+SHA512: b8d96c962628adc9a5e6cc47ed637005c5a653245809f5e3ed7a6e14b5d583ae877135187eada09337d4233a6bd0c6f04de7b782938d9092f0a9cbc344913669
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library for handling input and output devices - development files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library provides a generic framework for grabbing from and rendering to
+ many common multimedia input/output devices, and supports several input and
+ output devices, including Video4Linux2, VfW, DShow, and ALSA.
+ .
+ This package contains the development files.
+

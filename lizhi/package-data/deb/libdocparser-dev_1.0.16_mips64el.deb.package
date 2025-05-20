@@ -1,0 +1,19 @@
+Package: libdocparser-dev
+Architecture: mips64el
+Version: 1.0.16
+Priority: optional
+Section: libdevel
+Source: docparser
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 16
+Depends: libdocparser
+Filename: ./deb/libdocparser-dev_1.0.16_mips64el.deb
+Size: 2908
+MD5sum: 72d44f6c230374ba9f4f808a80641a14
+SHA1: 26bc55753f14441caa254d188c544fb61377ef26
+SHA256: 91cb7bb72809af025170bed509877cdc86513a4b530df322473815bc7c9f9d81
+SHA512: 1984634e5e9371c35f7c3e657228251c31781de443fafb7ab8d23470a7cee97059c5aaccd3165c264cbc4926e29bdb0fc8054207f72c62d04dd7782ce9592b34
+Description: Development files for libdocparser
+ This package contains the header files and static libraries
+ of libdocparser
+

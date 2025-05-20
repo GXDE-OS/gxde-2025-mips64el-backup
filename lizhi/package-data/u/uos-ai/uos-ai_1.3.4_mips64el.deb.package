@@ -1,0 +1,16 @@
+Package: uos-ai
+Architecture: mips64el
+Version: 1.3.4
+Priority: optional
+Section: non-free/copilot
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 11513
+Depends: libatspi2.0-0t64 (>= 2.9.90), libc6 (>= 2.34), libdframeworkdbus2 (>= 6.0), libdtkcore5 (>= 5.7), libdtkgui5 (>= 5.7.11), libdtkwidget5 (>= 5.7.11), libgcc-s1 (>= 3.0), libglib2.0-0t64 (>= 2.12.0), libgsettings-qt1 (>= 1.0.0), libkf5globalaccel-bin, libkf5globalaccel5 (>= 4.96.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5t64 (>= 5.15.1), libqt5sql5t64 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5webchannel5 (>= 5.6.1), libqt5webenginewidgets5 (>= 5.14.1), libqt5websockets5 (>= 5.6.0), libqt5widgets5t64 (>= 5.9.0~beta), libssl3t64 (>= 3.0.0), libstdc++6 (>= 14)
+Filename: ./u/uos-ai/uos-ai_1.3.4_mips64el.deb
+Size: 3517216
+MD5sum: 5df1708fe88d6d15561934bf6595b907
+SHA1: e2285b273ab3ffcbeb246f2d85e36e6a3751b07e
+SHA256: fe77272b5f53ec17d3cc7e4c9b058eae52ef7a3367a52be6aa78b6f3c9018666
+SHA512: 10285b22af4cc744395becf1e0b206a51518d0b3faaef48c1f9d4b8b668981fbba2edd18416885f209ba0ae67f44f1577a8fb80ecebb6024c42c9d9ab00b31a6
+Description: As a useful and efficient assistant, an AI-powered assistant simplifies our office efficiency and provides valuable support in a wide range of domains.
+

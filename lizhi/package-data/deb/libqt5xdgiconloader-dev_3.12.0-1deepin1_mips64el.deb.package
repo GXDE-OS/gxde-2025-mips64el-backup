@@ -1,0 +1,22 @@
+Package: libqt5xdgiconloader-dev
+Architecture: mips64el
+Version: 3.12.0-1deepin1
+Priority: optional
+Section: libdevel
+Source: libqtxdg
+Maintainer: LXQt Packaging Team <team+lxqt@tracker.debian.org>
+Installed-Size: 124
+Depends: libqt5svg5-dev, libqt5xdgiconloader3 (= 3.12.0-1deepin1), libc6 (>= 2.2), libqt5core5a (>= 5.0.2), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 5)
+Filename: ./deb/libqt5xdgiconloader-dev_3.12.0-1deepin1_mips64el.deb
+Size: 22320
+MD5sum: f8f41cf8c55488baef6e142afc1d7e24
+SHA1: 05a4c114efa5261f4169a2ea82400407e61d28fa
+SHA256: 17e0ddb8cea758c86fc082ee5f1facf0faf6ba9ad040d6d3281a522a971ff44a
+SHA512: a2e0f16c7ca53215fc272ef3dd4c3dccf8b6be61d0322dfcf9c1730d8dea7b161b4882ce61f53129b40b6a9ecf13bf02d710a66942625360569382dc4e02956a
+Homepage: https://github.com/lxqt/libqtxdg
+Description: Development files for libqtxdgiconloader
+ This library implements the backend to load icons which are handled according
+ to the XDG Icon Theme Specification in Qt. It is part of LXQt.
+ .
+ This package provides development files.
+

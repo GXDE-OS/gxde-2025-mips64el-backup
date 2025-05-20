@@ -1,0 +1,17 @@
+Package: com.github.minesweep
+Architecture: mips64el
+Version: 1.2.0-1
+Priority: optional
+Section: utils
+Maintainer: liuminghang  <liuminghang0821@gmail.com>
+Installed-Size: 159
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.3)
+Filename: ./c/com.github.minesweep/com.github.minesweep_1.2.0-1_mips64el.deb
+Size: 26920
+MD5sum: 020ee6987e55f594edd34bfe7ce5e2ce
+SHA1: 8817d30b5d8b10de65edc95000d9fb355777c51c
+SHA256: 8b4f84fb818c19c12de1edc48694dc357ffae5cfc99e7f362d3ac05abe67a372
+SHA512: f544e802bcb9d726f7e3361402d82d7ddbbc5ccbabe9ef5dc1c774fa8a122c568cf7bb1e7472183a0cba8d0529bf5e5e2bb6dafb40339eb1acd3382b6b555add
+Homepage: https://github.com/dependon/MineSweep
+Description: minesweep.
+

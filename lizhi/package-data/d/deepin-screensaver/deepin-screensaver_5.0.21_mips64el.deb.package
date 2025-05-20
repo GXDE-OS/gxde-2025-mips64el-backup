@@ -1,0 +1,17 @@
+Package: deepin-screensaver
+Architecture: mips64el
+Version: 5.0.21
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 294
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 5.5.5), libdtkcore5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.4.0) | libqt5gui5-gles (>= 5.4.0), libqt5network5 (>= 5.0.2), libqt5qml5 (>= 5.0.2), libqt5quick5 (>= 5.15.1) | libqt5quick5-gles (>= 5.15.1), libqt5widgets5 (>= 5.9.0~beta), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libx11-6, libxcb1, libxss1, deepin-screensaver-xscreensaver-data
+Filename: ./d/deepin-screensaver/deepin-screensaver_5.0.21_mips64el.deb
+Size: 60316
+MD5sum: 57aa6b6019f0a43a4d7bfbda9a54a407
+SHA1: a22f54a527aee682cf4bbd28f655915bab6bb9ef
+SHA256: c118d0830bd0d6d8bdc8d7d5495bd42e3747098992d4d16510d7fdb1973d9ef1
+SHA512: 296b5701d2bccf21b3ad054924b67ad244dcb3469d1660e4676349b1b9246a12d2cc77d377630fb127067432ef7275d60a731c0ee233fa68b737a86d1e5bbc15
+Description: Screensaver Tool
+ Deepin screensaver viewer and tools.
+

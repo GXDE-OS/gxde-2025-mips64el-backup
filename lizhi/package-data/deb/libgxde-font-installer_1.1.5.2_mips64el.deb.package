@@ -1,0 +1,20 @@
+Package: libgxde-font-installer
+Architecture: mips64el
+Version: 1.1.5.2
+Multi-Arch: same
+Priority: optional
+Section: utils
+Source: gxde-font-installer
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 154
+Depends: libc6 (>= 2.4), libdtkwidget2 (>= 15.14-2.2.5.8), libfreetype6 (>= 2.2.1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: ./deb/libgxde-font-installer_1.1.5.2_mips64el.deb
+Size: 25204
+MD5sum: e759161aaed07bb8c8ee3a56fb1e974b
+SHA1: a8b011cb3114ba49376118b4efa79632fe8f0674
+SHA256: caf891d9269eba8b64deabce12389435fc62c940d4e281d7aff5270e997708b8
+SHA512: ed611004e1ae032888d7e62729c0929ba7c34a0e099d7cf815cb02c9eb23c9c0922daec898d65a6179ca0fa8453cfe7bb6aa693bf80cac831a7aecb2b365e579
+Homepage: https://gxde.gfdgdxi.top
+Description: GXDE Font Installer library
+ This package contains the shared libraries.
+

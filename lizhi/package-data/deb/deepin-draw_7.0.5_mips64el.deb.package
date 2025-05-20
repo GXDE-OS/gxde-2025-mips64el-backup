@@ -1,0 +1,19 @@
+Package: deepin-draw
+Architecture: mips64el
+Version: 7.0.5
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 31190
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5printsupport5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2), qt5-image-formats-plugins, deepin-picker-cli
+Recommends: uos-reporter, deepin-event-log, kimageformat-plugins
+Filename: ./deb/deepin-draw_7.0.5_mips64el.deb
+Size: 24596252
+MD5sum: 92817a0a0b1fd7de334f768bafeaef2d
+SHA1: 4d4ff1defa5757a13ea8a048f9b41d30afdd61e2
+SHA256: a09ec42028638159e752dc6671832e55c8c67061a5f8c43b588dc0926402af71
+SHA512: 73a21a9b69d6efb40cdf3ab5a5f26cd6b511ed5d650aabfba66249f3a5e6738d974fc885aa2e64fe8b7786c90981ae960d451cf803db642f740d8cad1787a3bd
+Homepage: http://www.deepin.org
+Description: Draw for UOS
+ Draw is a lightweight drawing tool for users to freely draw and simply edit images.
+

@@ -1,0 +1,19 @@
+Package: deepin-clone
+Architecture: mips64el
+Version: 1.1.0
+Priority: optional
+Section: devel
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 5360
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtklog (>= 0.0), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5 (>= 5.14.1), libstdc++6 (>= 5), qtbase-abi-5-15-8, partclone, jfsutils, ntfs-3g, xfsprogs
+Recommends: gxde-system-assistant, garma
+Filename: ./d/deepin-clone/deepin-clone_1.1.0_mips64el.deb
+Size: 3930356
+MD5sum: 2a2d7c080cc9728a5fc497380007ad63
+SHA1: 81340758953a93acf03a4e03ff71bebb49a4da15
+SHA256: 3e5d2c1eef93dca63ae50847aad6ce6f7dfff52f47c4e72579e31b5152d1c85d
+SHA512: 950a73144ebaecad55e0d6b3b48fc81e232ef98d12a656d255669776fd33258f63c6bc46de45f2e10efe31e9e0d9bd321add265c27ea20dc840d4f849539b968
+Description: Backup Restore Tool
+  It is a tool for disk or partition clone, backup and restore, and other functions.
+  It supports clone disk to disk, disk to file, partition to partition, partition to file; and restore from file to disk, file to partition.
+

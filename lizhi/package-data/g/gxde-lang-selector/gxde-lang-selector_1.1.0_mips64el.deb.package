@@ -1,0 +1,18 @@
+Package: gxde-lang-selector
+Architecture: mips64el
+Version: 1.1.0
+Priority: extra
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1353
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2)
+Filename: ./g/gxde-lang-selector/gxde-lang-selector_1.1.0_mips64el.deb
+Size: 923168
+MD5sum: b1b5911064628aaf3c5758eabd307c2d
+SHA1: e6ca8f8bfd767f462d513d1f223dde9e7ba9a1ce
+SHA256: e506589bb4ac42e390331ec3b15b53430e3ed13f23f6a84863583ecf08a2c718
+SHA512: f1edcf32e32d8cca0af798268f2962eecf00902eae4a2fe86586458128d196dc5f3e4f0d7763faa2212968e3b59fb3266f740aab86322d2ea09c9d2e39eb381d
+Homepage: http://www.deepin.org
+Description: Language selection page
+ Language selection page
+

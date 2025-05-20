@@ -1,0 +1,19 @@
+Package: libdtkcore5-bin-dbgsym
+Architecture: mips64el
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkcore
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 3481
+Depends: libdtkcore5-bin (= 5.6.34)
+Filename: ./deb/libdtkcore5-bin-dbgsym_5.6.34_mips64el.deb
+Size: 2323272
+MD5sum: 850b7479173abb487bb9e3d38b62085e
+SHA1: dc2a7852e1b01e4e2fc5ed8e3484582302973219
+SHA256: 76abc29288b582a28f57fc18bc3e976dd487f706aa82d58da9d70d04cd41e3d9
+SHA512: bd653d658525eedf64e51d4befdc253e99be493fb719be8d5516ad48509fb795752f16ecf319d9831c5a00caacbe5e34ba4ff2a199fa068d5ed37cdfd35dd4de
+Description: debug symbols for libdtkcore5-bin
+Build-Ids: 1207794727e3e282d7b8265460330acd50aad1fc 49bf411a19e6f9ee95a047dcad26b14d9d99fc5e 6b523b3209f756ee521f6a0639e3ad7456e5a8f7 708775eab1352fa9c3f81aa8517cbcc74fd1eb33 b055cf692a9529dda59c69a370e02859b8aee812
+

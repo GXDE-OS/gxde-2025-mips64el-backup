@@ -1,0 +1,20 @@
+Package: gxde-font-installer
+Architecture: mips64el
+Version: 1.1.5.2
+Priority: optional
+Section: utils
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 649
+Depends: libc6 (>= 2.34), libdde-file-manager, libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14-2.2.5.8), libgcc-s1 (>= 3.0), libgxde-font-installer (= 1.1.5.2), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.2.0~alpha1), libstdc++6 (>= 5)
+Breaks: deepin-font-installer
+Replaces: deepin-font-installer
+Filename: ./deb/gxde-font-installer_1.1.5.2_mips64el.deb
+Size: 106212
+MD5sum: 0068e63700a2442fcc2bc33c7c57df7e
+SHA1: 2ddd992eb95e72c5c66a8a11b0efd797a28e1086
+SHA256: 0f5e01262baf0e023e892893325b88a3bd243ddf5ac53bf7a5a36a5f4243399c
+SHA512: b3bafad34abc3996c0cecd3ce9ad4710ee766613f8f678dd51489a2747a3be26874c3d381dd831236453a024de0400be5480892f7c02da3e965c5c6b376444c1
+Homepage: https://gxde.gfdgdxi.top
+Description: GXDE Font Installer binary
+ GXDE Font Installer is used to install and uninstall font file for users with bulk install function.
+

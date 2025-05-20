@@ -1,0 +1,20 @@
+Package: libgxde-font-installer-dev
+Architecture: mips64el
+Version: 1.1.5.2
+Priority: optional
+Section: utils
+Source: gxde-font-installer
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 26
+Depends: libgxde-font-installer (= 1.1.5.2)
+Filename: ./l/libgxde-font-installer-dev/libgxde-font-installer-dev_1.1.5.2_mips64el.deb
+Size: 3688
+MD5sum: dcf9f2c36722893fced5ca7c87912720
+SHA1: e40d48e676cf36aafed68c02b5ff56aa99db467a
+SHA256: a8e4569ffa05a7f129db76b2960009feee97779055e5b07d92d543695d7340fe
+SHA512: a2a4b2b2b065f427be1688d7deb2d6bfc73a72cca515d7cf95acc9b726cd7020a650aaeffe33f0f9d26b7965fbc8abfca65329d30fde8fa1b915a51e04b42b84
+Homepage: https://gxde.gfdgdxi.top
+Description: GXDE Font Instaler Devel library
+ This package contains the header files and static libraries
+ of libgxde-font-installer
+

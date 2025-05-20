@@ -1,0 +1,23 @@
+Package: pcregrep
+Architecture: mips64el
+Version: 2:8.39-15
+Priority: optional
+Section: utils
+Source: pcre3
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 92
+Replaces: pgrep (<< 4.5)
+Filename: ./deb/pcregrep_8.39-15_mips64el.deb
+Size: 27456
+MD5sum: 028eda1c122dd2ae59dbd1c11f801d3f
+SHA1: 194434fc1d4a03a4c809c8d930bbdc56a0edd76a
+SHA256: a6afcf4af6d077546c6a6e0033e877972982df223025f865f0a2682272c6d5e4
+SHA512: cc513e057b4143c19d8d8e9b1097de15dfe0c436ed760c9c93d36eab508c16c44c4466e8ab4346385e2e1393e8f6bbafc4045b8b9fbb83225d5ffabfb8f12c77
+Description: grep utility that uses perl 5 compatible regexes.
+ Perl-style regexps have many useful features that the standard POSIX ones
+ don't; this is basically the same as grep but with the different
+ regexp syntax.
+ .
+ The other reason for the existence of pcregrep is that its source code is an
+ example of programming with libpcre.
+

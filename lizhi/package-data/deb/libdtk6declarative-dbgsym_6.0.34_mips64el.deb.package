@@ -1,0 +1,20 @@
+Package: libdtk6declarative-dbgsym
+Architecture: mips64el
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtk6declarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 28655
+Depends: libdtk6declarative (= 6.0.34)
+Filename: ./deb/libdtk6declarative-dbgsym_6.0.34_mips64el.deb
+Size: 27149700
+MD5sum: 710f78f72e9b6defae675930109bef78
+SHA1: 539502f04cbbbdbb785faf10874a9a633eed514b
+SHA256: b2efbcad5e9b53011da5da974ed17666443d666322c62dc0488d72502090d0a7
+SHA512: fb6cc3063d5fd09faa14157871794e09df68bf23b6f85aedca469583e88b2f69b21c526842f5bdf4113b623477b886a71960d6e28bae23191fd16746b22b849a
+Description: debug symbols for libdtk6declarative
+Build-Ids: 19aab3b7157760c445e4fc53523dbb964e3b5c15 45d88b597556d860a6aab65a343b701fc109df4c 70c24ff8e5d6127f78643e73f0ca65715686f040 ca829d3cfc0efdcdc60e00342bbd32ed0bd66641
+

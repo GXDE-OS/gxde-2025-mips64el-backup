@@ -1,0 +1,32 @@
+Package: libavutil-dev
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 2263
+Depends: libavutil58 (= 7:6.1.1-2)
+Filename: ./l/libavutil-dev/libavutil-dev_6.1.1-2_mips64el.deb
+Size: 497688
+MD5sum: 670ac28ab199d879dcebd156322f17b0
+SHA1: 6f90a5b23445a9b07aaf2f2e4a8d848a6b2a90d9
+SHA256: 23f2118371a85875817a0380e80bc4e2b7cf6a670edfe8d3e07de584aa76060c
+SHA512: 94ad5d3a71de7ad13b4dec48281ddda85ab89540ab6fd7e518bcf4c153fca8a00da40995969b4b522fb6d9d9551e7e22b10ab52d6f8ba6bf6f54ff306bc8b1b6
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library with functions for simplifying programming - development files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library is a utility library to aid portable multimedia programming.
+ It contains safe portable string functions, random number generators, data
+ structures, additional mathematics functions, cryptography and multimedia
+ related functionality (like enumerations for pixel and sample formats).
+ It is not a library for code needed by both libavcodec and libavformat.
+ The goal for this library is to be modular, small, efficient and useful.
+ .
+ This package contains the development files.
+

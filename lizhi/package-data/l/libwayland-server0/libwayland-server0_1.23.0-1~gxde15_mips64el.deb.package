@@ -1,0 +1,31 @@
+Package: libwayland-server0
+Architecture: mips64el
+Version: 1.23.0-1~gxde15
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: wayland
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 158
+Depends: libc6 (>= 2.34), libffi8 (>= 3.4)
+Conflicts: libwayland0 (<< 1.1.0-1)
+Breaks: weston (<< 1.2.0)
+Replaces: libwayland0 (<< 1.1.0-1)
+Filename: ./l/libwayland-server0/libwayland-server0_1.23.0-1~gxde15_mips64el.deb
+Size: 28932
+MD5sum: ed2ddf7da530467cd750a2dbb86c6004
+SHA1: 1322684b96a88a3afacaddf4e5b42db4ff5dfb74
+SHA256: 797d90d6cd71b36b192e8aebf0860f99d2274588d5d1510b832c972c9a1aa74b
+SHA512: e46f14a4d326d6b2d1bfab2b546b7bee29c4edceb488f497e9191e4f2dd0226f1ada2b92939df1946e58274277e5dc468480dfc0814e084558b4e2ae6950922c
+Homepage: https://wayland.freedesktop.org/
+Description: wayland compositor infrastructure - server library
+ Wayland is a protocol for a compositor to talk to its clients as well
+ as a C library implementation of that protocol. The compositor can be
+ a standalone display server running on Linux kernel modesetting and
+ evdev input devices, an X application, or a wayland client
+ itself. The clients can be traditional applications, X servers
+ (rootless or fullscreen) or other display servers.
+ .
+ This package ships the library that implements the server side of
+ the Wayland protocol.
+

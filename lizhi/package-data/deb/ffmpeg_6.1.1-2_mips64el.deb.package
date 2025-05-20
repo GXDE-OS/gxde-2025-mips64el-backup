@@ -1,0 +1,29 @@
+Package: ffmpeg
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: foreign
+Priority: optional
+Section: video
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 2634
+Depends: libavcodec60 (>= 7:6.1), libavdevice60 (>= 7:6.0), libavfilter9 (>= 7:6.0), libavformat60 (>= 7:6.0), libavutil58 (>= 7:6.0), libc6 (>= 2.35), libpostproc57 (>= 7:6.0), libsdl2-2.0-0 (>= 2.0.12), libswresample4 (>= 7:6.0), libswscale7 (>= 7:6.0)
+Suggests: ffmpeg-doc
+Filename: ./deb/ffmpeg_6.1.1-2_mips64el.deb
+Size: 1878572
+MD5sum: 66e6e6d35f6d5bcff72ab53edf9d986b
+SHA1: 964340e79347a7cde3f865a2c73d3e8873ae6809
+SHA256: 1ec5305991fcce9ddf131541d2b5eb1ec311dab6f9e3c2c516b46743d2d04524
+SHA512: 79ad7a645434ec392d658b005575ef04bff29c70af9990fd1ecca0e5381ba1563346e08f6da5598a92dfa060ac402b7ebd7dcfa8050f5d6977bf9e5790a04b6c
+Homepage: https://ffmpeg.org/
+Description: Tools for transcoding, streaming and playing of multimedia files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This package contains:
+  * ffmpeg: a command line tool to convert multimedia files between formats
+  * ffplay: a simple media player based on SDL and the FFmpeg libraries
+  * ffprobe: a simple multimedia stream analyzer
+  * qt-faststart: a utility to rearrange Quicktime files
+

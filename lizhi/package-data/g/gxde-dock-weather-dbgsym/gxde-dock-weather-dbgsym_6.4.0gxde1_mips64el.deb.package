@@ -1,0 +1,19 @@
+Package: gxde-dock-weather-dbgsym
+Architecture: mips64el
+Version: 6.4.0gxde1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: gxde-dock-weather
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 1093
+Depends: gxde-dock-weather (= 6.4.0gxde1)
+Filename: ./g/gxde-dock-weather-dbgsym/gxde-dock-weather-dbgsym_6.4.0gxde1_mips64el.deb
+Size: 1079720
+MD5sum: d4e6ec064eac8f278af02bf3167357b2
+SHA1: 015f5038f30205760978c20db05547f25ecfe81f
+SHA256: 725e4b82eec2c1608704295dfeba1bf7a53505b11390f8dc6570dd8469bb6dae
+SHA512: a2f2a4268231616465f40387f3bcc9c497de78933753723ea4840dd9ff5754ae29a2111418a8ba3db2301a423adccccc5430ea2d5049fa20a90161f140e88057
+Description: debug symbols for gxde-dock-weather
+Build-Ids: 4e4234f33240d6fd5a470dea5030523d5150baf2
+

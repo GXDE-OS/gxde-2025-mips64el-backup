@@ -1,0 +1,19 @@
+Package: gxde-installer-oem
+Architecture: mips64el
+Version: 2.7.21
+Priority: extra
+Section: utils
+Source: gxde-installer-reborn
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 390
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.0.2), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), gxde-installer
+Filename: ./deb/gxde-installer-oem_2.7.21_mips64el.deb
+Size: 91132
+MD5sum: 686a083e24ea2741fad537e6de0053e1
+SHA1: 7d313dd25aeb14ae69f128342c33b847c9487618
+SHA256: e0d946a6bd8b097b8a921dff1da7ed21f8ae088c8bab91111aba49cdc310b1db
+SHA512: 353bd30c4db294a2b2b9dd205ba4700ed7d20add044e4f79973a7e228d981762ff23be8f233ab879c362c790a51e35265073be28e99ba5dabb5fca50b27a7e98
+Homepage: http://www.gfdgdxi.top
+Description: OEM tool
+ OEM tool for gxde-installer
+

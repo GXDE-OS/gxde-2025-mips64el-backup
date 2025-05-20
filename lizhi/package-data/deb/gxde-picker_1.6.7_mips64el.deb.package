@@ -1,0 +1,18 @@
+Package: gxde-picker
+Architecture: mips64el
+Version: 1.6.7
+Priority: optional
+Section: utils
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 243
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14-2.2.5.8), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5 (>= 5.2.0), libstdc++6 (>= 4.1.1), libx11-6, libxtst6
+Filename: ./deb/gxde-picker_1.6.7_mips64el.deb
+Size: 50340
+MD5sum: a6b26f3c9892830e59d0db2f6a0d1a76
+SHA1: cd1e768fab2ff1efbca2617df37d0eecace43279
+SHA256: 66900ee0071bd6027e3f67a8fbf887fe8c78b09879799b92196e4dce10aa31a0
+SHA512: 15e88da27a21311c724359c680c6c6616aaf6d745ca61349f54fd38a7ce5c9c62e61ec0e1e9de1d74429d0d3e883d8085f50d64d278e3651ae611cf8f9f39372
+Homepage: http://www.deepin.org
+Description: Color picker tool for GXDE
+ A color picker tool for GXDE.
+

@@ -1,0 +1,35 @@
+Package: qemu-system-misc
+Architecture: mips64el
+Version: 1:3.1+dfsg.8.lnd.15
+Multi-Arch: foreign
+Priority: optional
+Section: otherosfs
+Source: qemu
+Maintainer: Debian QEMU Team <pkg-qemu-devel@lists.alioth.debian.org>
+Installed-Size: 110
+Depends: qemu-system-common (>> 1:2.12~), qemu-system-data (>> 1:3.1+dfsg.8.lnd.15~)
+Recommends: qemu-system-gui (= 1:3.1+dfsg.8.lnd.15), qemu-utils, seabios, ipxe-qemu (>= 1.0.0+git-20131111.c3d1e78-1~)
+Suggests: samba, vde2, qemu-block-extra (= 1:3.1+dfsg.8.lnd.15)
+Filename: ./q/qemu-system-misc/qemu-system-misc_1%3a3.1+dfsg.8.lnd.15_mips64el.deb
+Size: 64084
+MD5sum: ba6f95f44808ae4d037004edc7fb202f
+SHA1: 6a5bf1cb1457435249d71283a963cbf6fa880077
+SHA256: ee7bec04f609413135fac9f867798a5397d69d61fa26ad2337e96106b3601a2e
+SHA512: 9cf61b263544f2495ada7c116e6a1966539d2c17668a58706c040fa6f9f48d3a8fa6137a0a127102912ce044bfd398cb398d53ea5ca5cb32b46ded2d9984f0af
+Homepage: http://www.qemu.org/
+Description: QEMU full system emulation binaries (miscellaneous)
+ QEMU is a fast processor emulator: currently the package supports
+ ARM, CRIS, M68k (ColdFire), MicroBlaze, and SH4
+ emulation. By using dynamic translation it achieves
+ reasonable speed while being easy to port on new host CPUs.
+ .
+ This package provides the full system emulation binaries to emulate
+ various other hardware which did not made into separate packages.
+ Emulators for the following architectures are provided:
+  .
+ .
+ In system emulation mode QEMU emulates a full system, including a processor
+ and various peripherals.  It enables easier testing and debugging of system
+ code.  It can also be used to provide virtual hosting of several virtual
+ machines on a single server.
+

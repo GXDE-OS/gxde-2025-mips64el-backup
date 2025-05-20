@@ -1,0 +1,27 @@
+Package: libpostproc57
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 157
+Depends: libavutil58 (>= 7:6.0), libc6 (>= 2.4)
+Filename: ./l/libpostproc57/libpostproc57_6.1.1-2_mips64el.deb
+Size: 68312
+MD5sum: 5ac1e0a64c85ceb744fb9d9db570ad97
+SHA1: 1612a8c9e990b1ff1374c79e3960272637fd9216
+SHA256: d3c4733aeb388af002487d42ee2ac6b6ebd5ccd8ea7efa0ff2037ade71b5f8be
+SHA512: 99339310d2f1d8e9f8ce0ede2543a69a225ec96f6e5529a59a7401559398ac55434ddb490897042cd05bb0e36305eea958f785fca2fc9745c87e5e61be757f14
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library for post processing - runtime files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library provides video post processing.
+ .
+ This package contains the runtime files.
+

@@ -1,0 +1,37 @@
+Package: libavfilter-extra9
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 5103
+Provides: libavfilter9 (= 7:6.1.1-2)
+Depends: libass9 (>= 1:0.15.0), libavcodec60 (= 7:6.1.1-2), libavformat60 (>= 7:6.0), libavutil58 (= 7:6.1.1-2), libbs2b0 (>= 3.1.0+dfsg), libc6 (>= 2.35), libflite1 (>= 1.4-release-9~), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.2.1), libfribidi0 (>= 0.19.2), libharfbuzz0b (>= 0.9.9), liblilv-0-0 (>= 0.14.2~dfsg0), libmysofa1 (>= 0.7~), libpostproc57 (>= 7:6.0), librubberband2 (>= 3.1.2+dfsg0), libswresample4 (>= 7:6.0), libswscale7 (>= 7:6.0), libtesseract5 (>= 5.3.0), libva2 (>= 1.7.3), libvidstab1.1, libzimg2 (>= 0.3.1), libzmq5 (>= 3.2.3+dfsg), ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1
+Conflicts: libavfilter9
+Filename: ./l/libavfilter-extra9/libavfilter-extra9_6.1.1-2_mips64el.deb
+Size: 1429716
+MD5sum: 5f279b98a87004bcdcbb98e682192d35
+SHA1: 59b184d61283ec8cd9a1733f36f2b355d0834c15
+SHA256: e3cabf9498c89ccbeb50f3304b7e41f7e6093d6698a87b8f2b3e2a58aca3c44f
+SHA512: f4d6ef2f303b05ed232c3aea239d664d2505fd0c4d1dfa1bce19ea5b5b7e55c540f2086887d14b5ccd6d1dcea1051931a9469758d92df7b6abfb152309a43414
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library with extra media filters - runtime files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library provides a generic audio/video filtering framework containing
+ several filters, sources and sinks.
+ .
+ This package replaces the libavfilter6 package and contains the
+ following additional filters:
+ .
+  * Optical Character Recognition (uses Tesseract)
+ .
+ Because this package links against libraries that are licensed under
+ Apache License 2.0, the resulting binaries are distributed under the
+ GPL version 3 or later.
+

@@ -1,0 +1,21 @@
+Package: libpcre16-3
+Architecture: mips64el
+Version: 2:8.39-15
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: pcre3
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 695
+Filename: ./deb/libpcre16-3_8.39-15_mips64el.deb
+Size: 251324
+MD5sum: feb038cca16d704b84daf6633f2561aa
+SHA1: 227ec7b9598bf9925c8bdd4378b38716087f824d
+SHA256: 52194611809f1655189df359b4e5cd3c135f1d7afd1146104a23968ba0b5141b
+SHA512: 39c8f8ea38e112a00e9e9caf135b8b5a146c079cfb6515484d3f2ac3d0a364d2ff0167d9224a8bec943f626735a48a3d0059f710e40fa19b7beeb30e6b24efd8
+Description: Old Perl 5 Compatible Regular Expression Library - 16 bit runtime files
+ This is a library of functions to support regular expressions whose syntax
+ and semantics are as close as possible to those of the Perl 5 language.
+ .
+ This package contains the 16 bit runtime library.
+

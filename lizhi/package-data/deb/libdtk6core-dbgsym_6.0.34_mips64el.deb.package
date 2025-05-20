@@ -1,0 +1,20 @@
+Package: libdtk6core-dbgsym
+Architecture: mips64el
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtk6core
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 8362
+Depends: libdtk6core (= 6.0.34)
+Filename: ./deb/libdtk6core-dbgsym_6.0.34_mips64el.deb
+Size: 8269768
+MD5sum: f00f794d49c4592e4d7aa4b11c2bbc92
+SHA1: 57534a692df69a9eed6e189e8e10023344448b36
+SHA256: e93168ed8b20aa33d0ec9e208c5f17f7ccf10768ef490d4292700efbe0e261f6
+SHA512: 47116b4d974be263bf824563bb222600bf581ca557aba5f932872f9bbde27489927246c437b6d950366730773ea7d227405e1ff5d3a3efd4e5a7866e371dc2b5
+Description: debug symbols for libdtk6core
+Build-Ids: 04461641755280df4404e58e52ed84df73f163d8
+

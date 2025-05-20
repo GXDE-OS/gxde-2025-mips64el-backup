@@ -1,0 +1,31 @@
+Package: erofsfuse
+Architecture: mips64el
+Version: 1.8.2-2deepin1
+Priority: optional
+Section: admin
+Source: erofs-utils
+Maintainer: Gao Xiang <xiang@kernel.org>
+Installed-Size: 229
+Depends: libc6 (>= 2.34), libdeflate0 (>= 1.0), libfuse2 (>= 2.6), liblz4-1 (>= 1.9.1), liblzma5 (>= 5.4.0), libselinux1 (>= 3.1~), libzstd1 (>= 1.5.2)
+Filename: ./e/erofsfuse/erofsfuse_1.8.2-2deepin1_mips64el.deb
+Size: 82000
+MD5sum: 2dd5d1520fd44ce7c8a1d1f2f71ecd38
+SHA1: a5135a442cb368e1db0f2cff9dc55fdaa77bebd4
+SHA256: f0d83c80a538191d35c23c35bf1ea32ed7062dea34bc07162c4a40f863f87899
+SHA512: abef2502f036f7cde5ce4f06afe3c0a41d829f5777abe8862bdd348d1e73ef7f03a8217c79e9ff7b5a244ee32297a8b112ea18c88bb6fe4dbc8b46d04963bf5d
+Homepage: http://git.kernel.org/pub/scm/linux/kernel/git/xiang/erofs-utils.git
+Description: FUSE Mount Utility for EROFS File System
+ EROFS (Enhanced Read-Only File System) is a lightweight
+ read-only file system with modern designs (eg. page-sized
+ blocks, inline xattrs/data, etc.) for scenarios which need
+ high-performance read-only requirements, e.g. Android OS
+ for smartphones and LIVECDs.
+ .
+ It also provides fixed-sized output compression support,
+ which improves storage density, keeps relatively higher
+ compression ratios, which is more useful to achieve high
+ performance for embedded devices with limited memory.
+ .
+ This package contains a utility to mount EROFS images
+ using FUSE.
+

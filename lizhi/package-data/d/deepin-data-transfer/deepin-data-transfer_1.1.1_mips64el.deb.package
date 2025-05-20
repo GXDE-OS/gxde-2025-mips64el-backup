@@ -1,0 +1,19 @@
+Package: deepin-data-transfer
+Architecture: mips64el
+Version: 1.1.1
+Priority: optional
+Section: utils
+Source: dde-cooperation
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 16266
+Depends: libc6 (>= 2.38), libdtkcore5 (>= 5.7.11), libdtkgui5 (>= 5.7.11), libdtkwidget5 (>= 5.7.12), libgcc-s1 (>= 4.5), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5network5t64 (>= 5.11.0~rc1), libqt5widgets5t64 (>= 5.11.0~rc1), libssl3t64 (>= 3.0.0), libstdc++6 (>= 14), libuuid1 (>= 2.16), libzip5 (>= 0.10), zlib1g (>= 1:1.1.4)
+Filename: ./d/deepin-data-transfer/deepin-data-transfer_1.1.1_mips64el.deb
+Size: 11384176
+MD5sum: be318723e3d1b9c9d2e177501ec09558
+SHA1: 4e8297a737376537601e93848f8aab50fa5a5c4a
+SHA256: e081fce12018976c018459c5f8b7a79444a5426b17aaf9a622f54f4c9b55a5b1
+SHA512: 8e0f06f123044f07e8ca9452aa204a7a41ca5946cbcde8591c669a14eb123d8cd086b48df2ca7c16a9519c56946843bcce95c56d0db22e4b884d6cc6d0b7facd
+Homepage: http://www.deepin.org
+Description: deepin data transfer application
+ Deepin Desktop Environment (DDE) - data transfer application.
+

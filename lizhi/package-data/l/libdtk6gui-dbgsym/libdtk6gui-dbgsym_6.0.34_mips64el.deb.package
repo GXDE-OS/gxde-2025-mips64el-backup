@@ -1,0 +1,20 @@
+Package: libdtk6gui-dbgsym
+Architecture: mips64el
+Version: 6.0.34
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtk6gui
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 8623
+Depends: libdtk6gui (= 6.0.34)
+Filename: ./l/libdtk6gui-dbgsym/libdtk6gui-dbgsym_6.0.34_mips64el.deb
+Size: 8394868
+MD5sum: 0c99a6557fc5049c5d591436e5309b15
+SHA1: 818f9b8c35d81b2ee776a7d4f06853581744efa6
+SHA256: bc0ede96861e041ec610ff7599c041c00c392bc303b948c1addd2ea2212ce389
+SHA512: fd3d8037f927a3c2f3aacf3d5da623d44df4b0796241e44dda715e39d227b340288c04410d326fcc3cfbf8fdf7907eee2502830b349f1948717f491affd3c919
+Description: debug symbols for libdtk6gui
+Build-Ids: e5a3e407c09262f84da4a4e0d5ec10f593b79cbf
+

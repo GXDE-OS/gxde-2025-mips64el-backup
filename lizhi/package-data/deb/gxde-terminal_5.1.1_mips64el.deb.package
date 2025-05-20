@@ -1,0 +1,22 @@
+Package: gxde-terminal
+Architecture: mips64el
+Version: 5.1.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 2294
+Provides: deepin-terminal-gtk, x-terminal-emulator
+Depends: libc6 (>= 2.34), libcairo2 (>= 1.14.0), libfontconfig1 (>= 2.12.6), libgee-0.8-2 (>= 0.8.3), libglib2.0-0t64 (>= 2.80.0), libgtk-3-0t64 (>= 3.21.5), libjson-glib-1.0-0 (>= 1.5.2), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.22.0), librsvg2-2 (>= 2.14.4), libsecret-1-0 (>= 0.7), libvte-2.91-0 (>= 0.51.90), libwnck-3-0 (>= 2.91.6), libx11-6, deepin-menu | dde-launchpad, expect, lrzsz, zssh
+Conflicts: deepin-terminal-gtk
+Replaces: deepin-terminal, deepin-terminal-gtk
+Filename: ./deb/gxde-terminal_5.1.1_mips64el.deb
+Size: 300172
+MD5sum: 67426727e3570d98fff264c6eeeecff3
+SHA1: 311d13303e8e7fe782587262a151c5d567c6140b
+SHA256: f3ef87d9df21278abb0fd0784d1eeefcf2adf058e7b5e481485bb29ceb88c69c
+SHA512: 0f00b2c3398d26a1e47398e7c4400aa61f52c7b7da986222ef9b8fc1ce5cf84ca76a0aa1e4306774e7965cf9b5734be3c84e49ad3b5e162477c51a2bb7eddc8e
+Homepage: https://github.com/linuxdeepin/gxde-terminal
+Description: sharpens your focus in the world of command line!
+ GXDE Teminal is an advanced terminal emulator with window-splitting,
+ workspaces, remote management, Quake mode and other features.
+

@@ -1,0 +1,29 @@
+Package: libwayland-bin
+Architecture: mips64el
+Version: 1.23.0-1~gxde15
+Multi-Arch: foreign
+Priority: optional
+Section: libdevel
+Source: wayland
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 83
+Depends: libc6 (>= 2.34), libexpat1 (>= 2.0.1), libxml2 (>= 2.7.4)
+Conflicts: libwayland-dev (<< 1.11.0-1)
+Replaces: libwayland-dev (<< 1.11.0-1)
+Filename: ./deb/libwayland-bin_1.23.0-1~gxde15_mips64el.deb
+Size: 19012
+MD5sum: dbffd70ed138bafb59d12fdf12b380f4
+SHA1: ddcb141a02bb5d9dc70fc6b34ecfca5abb87005d
+SHA256: 6421de4a7df9f74938ffbd7504ad02d0d7fb68f377ab0945f66b7be38abb3a43
+SHA512: 6af67edfda79d992ed739c5513a6a0bcf4da0c1f8599f50f571267bba38adff565d1ab8fe7cf3dd5b84b4ccfa2e54775a54ec9c64674b6ea14da1ddfec7939d8
+Homepage: https://wayland.freedesktop.org/
+Description: wayland compositor infrastructure - binary utilities
+ Wayland is a protocol for a compositor to talk to its clients as well
+ as a C library implementation of that protocol. The compositor can be
+ a standalone display server running on Linux kernel modesetting and
+ evdev input devices, an X application, or a wayland client
+ itself. The clients can be traditional applications, X servers
+ (rootless or fullscreen) or other display servers.
+ .
+ This package contains the development binary utilities
+

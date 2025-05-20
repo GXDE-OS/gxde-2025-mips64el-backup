@@ -1,0 +1,18 @@
+Package: gxde-timer
+Architecture: mips64el
+Version: 1.2.2-1
+Priority: optional
+Section: utils
+Source: gxde-timer-neo
+Maintainer: shenmo <shenmo@spark-app.store>
+Installed-Size: 218
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14-2.2.5.8), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 4.1.1)
+Filename: ./deb/gxde-timer_1.2.2-1_mips64el.deb
+Size: 122840
+MD5sum: b53be19faeaadea0578a2c780f0da32c
+SHA1: 175bdc88d17dc2d8741be7c6420dd39f5f39e650
+SHA256: fafda09351555f08919f4ca124cf5d9e0fb6b62f53c6a249ef17da802c1d55b5
+SHA512: bf3d901db3c445f284e9a06c91d658f8a6185713ac57958f518029de410db44c3e29d23f413eff2c16786923982bc5441d7d7bd0b23cbc4b3d88013e35f674ad
+Homepage: https://gitee.com/GXDE-OS/gxde-timer-neo
+Description: gxde-timer
+

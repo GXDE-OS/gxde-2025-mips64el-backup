@@ -1,0 +1,18 @@
+Package: deepin-anything-libs
+Architecture: mips64el
+Version: 6.1.9-1
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 219
+Filename: ./deb/deepin-anything-libs_6.1.9-1_mips64el.deb
+Size: 55768
+MD5sum: 3da92e907b8b49c5ab82bb66941c4200
+SHA1: fcde41393ad615ce1e74174c62faf5c46c103942
+SHA256: 779015f08ab775190ce0652825786f80db901ff9a5995088d1e42180e2a65cee
+SHA512: 9889b3bd24ec9a2dafd6b9bab1ae19c424181dabba5f9aa007134dfc2b073da5ba2a98d18a300f6b684ea9ac0716605601d8b48a059f28fefb3a37747a857f3f
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything library
+ anything library package
+

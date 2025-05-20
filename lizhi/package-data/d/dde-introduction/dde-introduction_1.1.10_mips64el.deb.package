@@ -1,0 +1,18 @@
+Package: dde-introduction
+Architecture: mips64el
+Version: 1.1.10
+Priority: optional
+Section: utils
+Maintainer: zhangdingyuan <zhangdingyuan@deepin.com>
+Installed-Size: 4442
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 5.5.5), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libgxmr, libqt5core5a (>= 5.14.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 4.1.1)
+Filename: ./d/dde-introduction/dde-introduction_1.1.10_mips64el.deb
+Size: 3562752
+MD5sum: d1de70b9342a66013acb9976f6ada9db
+SHA1: 2b6bdcc8ddfb2152d5d88a9bfd3c2b36e0d461bf
+SHA256: fdf8cb4e42d852dc88c7e6519dccaacd8f89614abcb9ea8e07e110b6c5732fef
+SHA512: db0fca7ddeffa7701d1e0c9bd81b04832cacd7d7e33fd1ba2a780ac9f5616564710bf539b3359b49eeea09a0b6c7a5b2176682aa088b0ba452161f637e0eb678
+Homepage: http://www.deepin.org
+Description: Introduction for deepin
+ Deepin initialization setup tool
+

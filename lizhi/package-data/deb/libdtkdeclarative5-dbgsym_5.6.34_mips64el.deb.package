@@ -1,0 +1,20 @@
+Package: libdtkdeclarative5-dbgsym
+Architecture: mips64el
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtkdeclarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 8808
+Depends: libdtkdeclarative5 (= 5.6.34)
+Filename: ./deb/libdtkdeclarative5-dbgsym_5.6.34_mips64el.deb
+Size: 8538716
+MD5sum: bd12d7b640516b5117fdca5d7e57d4fc
+SHA1: c20e7eece17eb27f0213fe715bc07a3da69e7450
+SHA256: e6e816bf29ef3d750bb9d7e605590f455dfeaa304642d3bb61eaa1d726aaeaeb
+SHA512: d6e9b7fec3fa1a5657f286daf7fe871743eab92ae8d3f24e2739e862572dd8d0eaff3c40513158b8cfd7f39af050c5441fb0de1db8f71fb5384991e4f9f7780a
+Description: debug symbols for libdtkdeclarative5
+Build-Ids: 2ef1da0c26325a309f6654c6672ed1829aa13a2e 8289465ccdf2f01af6f0eb1a90c3fc01d4febd03
+

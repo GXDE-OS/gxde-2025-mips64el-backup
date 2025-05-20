@@ -1,0 +1,21 @@
+Package: gxde-deb-installer
+Architecture: mips64el
+Version: 1.5.3
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 837
+Provides: deepin-deb-installer
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.3), libgcc-s1 (>= 3.0), libqapt3 (>= 3.0.1), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5 (>= 5.15.1), libstdc++6 (>= 5.2), libqapt3-runtime
+Replaces: deepin-deb-installer
+Filename: ./g/gxde-deb-installer/gxde-deb-installer_1.5.3_mips64el.deb
+Size: 189552
+MD5sum: 99e21b59330acbde6e7a4254109a0dac
+SHA1: 99f221e492cd20097cce0fc1eb9879eaa95b6a05
+SHA256: 79b28c5804979254ebb7e8b0cd614f6b1de6cd700247f476240b5d9c03d50daa
+SHA512: 7c4c123b943414d3a8de058f95cf239dbbaeb2ccb573273832abf579f51ed28aa01d060c2c95945016bd2552ba929ca585304bc9817284b8d17b631c76a696f9
+Homepage: https://www.deepin.com/
+Description: GXDE deb installer tool
+ GXDE Package Manager is used to help users install and
+ remove local software, supports to bulk install.
+

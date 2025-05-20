@@ -1,0 +1,21 @@
+Package: libdtk6widget
+Architecture: mips64el
+Version: 6.0.34
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: dtk6widget
+Maintainer: Deepin Packages Builder <packages@deepin.org>
+Installed-Size: 5113
+Depends: libc6 (>= 2.38), libdtk6core (>= 6.0), libdtk6gui (>= 6.0), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.8.2), libqt6gui6 (>= 6.8.2), libqt6network6 (>= 6.1.2), libqt6printsupport6 (>= 6.1.2), libqt6widgets6 (>= 6.3.0), libstartup-notification0 (>= 0.10), libstdc++6 (>= 11), libx11-6 (>= 2:1.2.99.901), libxcb-util1 (>= 0.4.0), libxcb1, libxext6, libxi6 (>= 2:1.2.99.4), qt6-base-private-abi (= 6.8.2)
+Filename: ./deb/libdtk6widget_6.0.34_mips64el.deb
+Size: 1096128
+MD5sum: c30e42a587bde40ca829179859396407
+SHA1: a749ceaa1c808cfbe579a8be1aae6ae721483dc7
+SHA256: 14614706544e1c574574cdd31a6ee9282f661ae5021931a891a28dd7831d31c3
+SHA512: 302ee5c8ac50bad6bb69f38228c80b5e26a3003e4709d51f1d426b4a24084ed8c086828c4c3641bdd9bdbd698a69de1ec3e6b2cdf97a370c724c3c0c53a28010
+Description: deepin graphical user interface library
+ DtkWidget is deepin graphical user interface for deepin desktop development.
+ .
+ This package contains the shared libraries.
+

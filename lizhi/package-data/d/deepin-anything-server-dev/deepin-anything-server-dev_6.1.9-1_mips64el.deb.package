@@ -1,0 +1,19 @@
+Package: deepin-anything-server-dev
+Architecture: mips64el
+Version: 6.1.9-1
+Priority: optional
+Section: admin
+Source: deepin-anything
+Maintainer: Deepin Package Builder <packages@deepin.com>
+Installed-Size: 24
+Depends: deepin-anything-server (= 6.1.9-1)
+Filename: ./d/deepin-anything-server-dev/deepin-anything-server-dev_6.1.9-1_mips64el.deb
+Size: 7916
+MD5sum: 7357e8d66daa627cd5f88ac767423332
+SHA1: 9ec21cd582e5b4d160ca064aa38f9078122b30df
+SHA256: 9a9fd0e8f64a5b9b114a356605b7ad6c913c848044d197c729fb4ba52401e698
+SHA512: d4f924b9a6a1cb9e72d3b5c9a2de04232a640bf95033db93c1bb3148a8aceb4b3d8d94420c6c098d3d9caa56911f04f659fd4ff8aeb981a0200f7c9ffb0068fb
+Homepage: http://github.com/linuxdeepin/deepin-anything
+Description: anything server user interface library
+ anything server library developer package.
+

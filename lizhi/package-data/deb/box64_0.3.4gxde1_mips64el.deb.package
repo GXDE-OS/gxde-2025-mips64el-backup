@@ -1,0 +1,18 @@
+Package: box64
+Architecture: mips64el
+Version: 0.3.4gxde1
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: Ryan Fortner <ryankfortner@gmail.com>
+Installed-Size: 73854
+Filename: ./deb/box64_0.3.4gxde1_mips64el.deb
+Size: 12438268
+MD5sum: 280ac2e2598bec90f3f7e8d6a17ce866
+SHA1: 9b0182d18e77208008eedee6362c10e7794f9def
+SHA256: 066454fc5221b42791192493a6e72e3ce7a777e5c77aff706ca3b0ae01e4160d
+SHA512: 845113d77fc2238354b013a05ab6e78dc51fef1d9adeb4274d7805a99c452f06710b5cdfa353d4aee31ce6161c0a6874dbe6a8aa976d2a66a1e089b693418e32
+Homepage: https://github.com/ptitSeb/box64
+Description: Linux Userspace x86_64 Emulator with a twist, targeted at ARM Linux devices
+ Box86 lets you run x86_64 Linux programs (such as games) on non-x86 Linux systems, like ARM (host system needs to be 64bit little-endian).
+

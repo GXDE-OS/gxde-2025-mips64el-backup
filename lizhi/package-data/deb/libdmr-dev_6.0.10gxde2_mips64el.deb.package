@@ -1,0 +1,19 @@
+Package: libdmr-dev
+Architecture: mips64el
+Version: 6.0.10gxde2
+Priority: extra
+Section: libdevel
+Source: deepin-movie-reborn
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 48
+Depends: libdmr (= 6.0.10gxde2), libgsettings-qt-dev
+Filename: ./deb/libdmr-dev_6.0.10gxde2_mips64el.deb
+Size: 11060
+MD5sum: 4288575f4a33ec44a9e602175f11f675
+SHA1: d8d9c5e5e275b5b096acec859a63533062b09a09
+SHA256: 73b3f31e11032c104961d86642ebf06e597a3199be074acb8077b14be24e7965
+SHA512: 1b75b69ad39d07fddb473fa47afc428b41ad95bb806ec91b926bd3ae595950266ef5a24666f9732f290b05fbb3ff1656c38c2da09874c351e648e5e6c95c9181
+Homepage: https://www.deepin.org/
+Description: movie player widget library development headers
+ deepin movie player widget library development headers
+

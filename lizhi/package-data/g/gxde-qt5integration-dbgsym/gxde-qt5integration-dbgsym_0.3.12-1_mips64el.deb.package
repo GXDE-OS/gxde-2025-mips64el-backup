@@ -1,0 +1,19 @@
+Package: gxde-qt5integration-dbgsym
+Architecture: mips64el
+Version: 0.3.12-1
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: gxde-qt5integration
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 4198
+Depends: gxde-qt5integration (= 0.3.12-1)
+Filename: ./g/gxde-qt5integration-dbgsym/gxde-qt5integration-dbgsym_0.3.12-1_mips64el.deb
+Size: 4221212
+MD5sum: f6884cb81a5d5416b5104200c73947cf
+SHA1: 1da1346da2f1def84d924537c4332f0d8260f8a3
+SHA256: 5d34ad8dbbad926f5368b9330eba4ca71eae4fb6cbabd86415e47cb7d9c77c1f
+SHA512: aed9b4f0cbbf8982ea8244ee0256c38ce1980500eb2151ac307df80cb4c990b252803f1529968b9d49a9e473c3908d7ab4d83dda5243b032f94bd79b4b69ce2a
+Description: debug symbols for gxde-qt5integration
+Build-Ids: 3797057317d797e1dce64ffacc48337cff5edf31
+

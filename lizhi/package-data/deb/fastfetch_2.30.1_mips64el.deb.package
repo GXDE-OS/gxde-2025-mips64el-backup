@@ -1,0 +1,18 @@
+Package: fastfetch
+Architecture: mips64el
+Version: 2.30.1
+Priority: optional
+Section: universe/utils
+Maintainer: Carter Li <zhangsongcui@live.cn>
+Installed-Size: 3210
+Depends: libc6 (>= 2.34)
+Filename: ./deb/fastfetch_2.30.1_mips64el.deb
+Size: 521560
+MD5sum: 916c843165cdf16941a58905c2f89cb8
+SHA1: b3cbd684ced410e062a3c06452e5bb0e2a657bff
+SHA256: 6fe36521057e7e98fefad34fdc54672ea684253afa57aba5508193960973cd5f
+SHA512: 71169da9b4710deaf39e36ed71d7178b7242350f0300b74909f12754884ba729b19357ae60e615a093a8a45478c4f9a73b2c482be21b5541c5ed3e163424da3d
+Homepage: https://github.com/fastfetch-cli/fastfetch
+Description: Fastfetch is a neofetch-like tool for fetching system information and displaying them in a pretty way.
+ It is written mainly in C, with performance and customizability in mind.
+

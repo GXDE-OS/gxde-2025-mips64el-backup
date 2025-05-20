@@ -1,0 +1,17 @@
+Package: libglibutil-dev
+Architecture: mips64el
+Version: 1.0.66
+Priority: optional
+Section: libdevel
+Source: libglibutil
+Maintainer: Slava Monich <slava.monich@jolla.com>
+Installed-Size: 76
+Depends: libglibutil (= 1.0.66)
+Filename: ./l/libglibutil-dev/libglibutil-dev_1.0.66_mips64el.deb
+Size: 10676
+MD5sum: 29979fdb9aecaf3e367f5ebd801e7070
+SHA1: 0f3d1606c4bcb18e334affb30b3c337d13991e8c
+SHA256: c9fc13c8a7b0225ebffdceaa7eaada3a62b95bfbe3554bf3d3959cc3365111e0
+SHA512: a932dba826ec1bf1b15b37bb3749114dd7aede414bd91bf755e66e29d478826ee27f44eb9a490f6fcf205a3ac4ff6445dabe71669d6289773ab58405809fa5d4
+Description: Development files for libglibutil
+

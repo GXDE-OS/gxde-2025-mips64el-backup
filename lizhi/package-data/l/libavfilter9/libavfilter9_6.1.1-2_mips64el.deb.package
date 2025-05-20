@@ -1,0 +1,28 @@
+Package: libavfilter9
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 5103
+Depends: libass9 (>= 1:0.15.0), libavcodec60 (= 7:6.1.1-2), libavformat60 (>= 7:6.0), libavutil58 (= 7:6.1.1-2), libbs2b0 (>= 3.1.0+dfsg), libc6 (>= 2.35), libflite1 (>= 1.4-release-9~), libfontconfig1 (>= 2.12.6), libfreetype6 (>= 2.2.1), libfribidi0 (>= 0.19.2), libharfbuzz0b (>= 0.9.9), liblilv-0-0 (>= 0.14.2~dfsg0), libmysofa1 (>= 0.7~), libpostproc57 (>= 7:6.0), librubberband2 (>= 3.1.2+dfsg0), libswresample4 (>= 7:6.0), libswscale7 (>= 7:6.0), libva2 (>= 1.7.3), libvidstab1.1, libzimg2 (>= 0.3.1), libzmq5 (>= 3.2.3+dfsg), ocl-icd-libopencl1 | libopencl1, ocl-icd-libopencl1 (>= 1.0) | libopencl-1.2-1
+Filename: ./l/libavfilter9/libavfilter9_6.1.1-2_mips64el.deb
+Size: 1428740
+MD5sum: 54e0611a74aa32a12f3fb3121f92c5c6
+SHA1: 0d2db327bce0335f8b1e5d86905effa0f20f6039
+SHA256: 26cad77cb76a1ded8b1e0e3ca93ddaae9f0322f9ef8b4a0e658d7fddf6f8ff6c
+SHA512: 066517956c445cfc1e588c6bdb0ea7f3116e80b078079af4312045af8d7c1bd3db014e20943f29e54238a6256ac148aa53649c4c1f80e8a351ea553d6693ad01
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library containing media filters - runtime files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library provides a generic audio/video filtering framework containing
+ several filters, sources and sinks.
+ .
+ This package contains the runtime files.
+

@@ -1,0 +1,19 @@
+Package: dtk-exhibition-dbgsym
+Architecture: mips64el
+Version: 5.6.34
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtkdeclarative
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 22203
+Depends: dtk-exhibition (= 5.6.34)
+Filename: ./d/dtk-exhibition-dbgsym/dtk-exhibition-dbgsym_5.6.34_mips64el.deb
+Size: 226684
+MD5sum: 2fc4a1888a41705c86ac88437283b975
+SHA1: 5c008dc48adbf3fe17745a39c9914ab49a1bc028
+SHA256: 54def92aece4526942e42177034ee8ea563afa397da7132d54f358493ae3ac6a
+SHA512: 6483dc17587b5aab144069b42c9a10c007a955e39e229f5a4c06a156b457fca9fbe2fe3bc3ca30e0579a88693822679a73a81bab5f0bab176ae9d05eb5aeb7a7
+Description: debug symbols for dtk-exhibition
+Build-Ids: 923b96c6e5786e36e0869c4d4b84c2ef0b6cad03
+

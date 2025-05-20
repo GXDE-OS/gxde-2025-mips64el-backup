@@ -1,0 +1,24 @@
+Package: qwlroots
+Architecture: mips64el
+Version: 0.5.2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Maintainer: rewine <lhongxu@outlook.com>
+Installed-Size: 2279
+Depends: libwlroots-0.18-dev
+Replaces: libqwlroots1
+Filename: ./deb/qwlroots_0.5.2_mips64el.deb
+Size: 146420
+MD5sum: a0d8a168e9e6448e0c78041ae9e5d8fe
+SHA1: ad4c2a3ce7e70c36f1b594cb64e523c1f8ecd10e
+SHA256: fe35f4cd8d93399f8f2635e7c9fc37e42f19b24c7fcf609ea9572e6122b9ceb0
+SHA512: 1d1125b08b970169389a79210228a7b4b8a94284bd0333e46c932cb775d92536477d62c9f81bc7fd973d10b1786331beb1388000588c64af52db887f533cdbca
+Homepage: https://github.com/vioken/qwlroots.git
+Description: Qt and QML bindings for wlroots
+  qwlroots is a binding of wlroots, which provides a Qt style development interface.
+ It aims to simplify wlroots API calling methods with Qt, and serve the needs of
+ calling wlroots within Qt projects.
+ .
+ This package contains the development headers and static library.
+

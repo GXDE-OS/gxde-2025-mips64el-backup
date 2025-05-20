@@ -1,0 +1,19 @@
+Package: gxde-voice-recorder
+Architecture: mips64el
+Version: 1.4.3
+Priority: optional
+Section: utils
+Maintainer: 3025613752@qq.com
+Installed-Size: 835
+Depends: libavformat60 (>= 7:6.0), libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.11.0~rc1), libstdc++6 (>= 5.2), libqt5multimedia5-plugins
+Replaces: deepin-voice-recorder
+Filename: ./deb/gxde-voice-recorder_1.4.3_mips64el.deb
+Size: 395732
+MD5sum: a5ed7383abc5f6885a4a9c8d5d48c23d
+SHA1: 8ddc05c8480a9b3114d0e233aca2685e17891573
+SHA256: 77bc334c6f8d4a0afffda5bcc567590277d8639b85be13874818eee92c4846a6
+SHA512: 84e23bf6b8feb3725c465e08e5e74ffc47440a3b79e86d457b36c198091935e8b64629770a12b07962532e996d1e7da237581ad8beb8898e5b23711d7e7b38fa
+Homepage: https://github.com/GXDE-OS/gxde-voice-recorder
+Description: Voice recorder application for GXDE
+ GXDE voice recorder tool.
+

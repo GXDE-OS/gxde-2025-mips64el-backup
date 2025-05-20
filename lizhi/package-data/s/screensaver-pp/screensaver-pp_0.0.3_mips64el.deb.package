@@ -1,0 +1,17 @@
+Package: screensaver-pp
+Architecture: mips64el
+Version: 0.0.3
+Priority: optional
+Section: devel
+Maintainer: Packages Builder <zccrs@live.com>
+Installed-Size: 259
+Depends: deepin-screensaver, qml-module-qtquick-particles2, qml-module-qtquick2, qml-module-qtquick-window2, qml-module-qtgraphicaleffects
+Filename: ./s/screensaver-pp/screensaver-pp_0.0.3_mips64el.deb
+Size: 251412
+MD5sum: 4dc6491dca316ed9fcf41e1e37209ef9
+SHA1: ebc39699355dac6274f15bf1946ce676108ba061
+SHA256: 8fb1105d3419b676f6321fbdeb65f6aaecf86842da8885263ead4749047dcdc9
+SHA512: bf6f8ae2485d4d6dd3082c912493067af6c26190674b4a714b4cad77c7752f75f7424c04bc42ed5496725d4e7b0272780fe7a0250cd33cde65dbe5cb670df951
+Description: A bubble screensaver application
+ Apply to Deepin Desktop Environment.
+

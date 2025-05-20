@@ -1,0 +1,18 @@
+Package: dde-qt5wayland-plugin
+Architecture: mips64el
+Version: 5.6.34
+Priority: optional
+Section: devel
+Source: dde-qt5platform-plugins
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 558
+Depends: libc6 (>= 2.34), libdwaylandclient5 (>= 5.25.0-kwayland.5.24.3), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.10.0) | libqt5gui5-gles (>= 5.10.0), libqt5waylandclient5 (>= 5.10.1), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 14), libwayland-cursor0 (>= 1.0.2), libxkbcommon0 (>= 0.5.0), qtbase-abi-5-15-15, qtwayland-client-abi-5-15-15, qtwayland5
+Filename: ./deb/dde-qt5wayland-plugin_5.6.34_mips64el.deb
+Size: 112136
+MD5sum: 766c02a59a5873b1bedabdccfcfbd963
+SHA1: 1d8f43128a973814c8a0b35105bc1d379f902056
+SHA256: 23afb25e13a33753218fc52bdd77ad77091eac6899b1a1497fd542f42a44fb31
+SHA512: c6ee2068eecc574a65b6a1978f1c0a6144419453e346702801c9a6aea6ef9a10926f9d177b345b7095212bfd449a4ebb757f79d7a8579175fff749fb8c761c4f
+Description: Qt platform plugins
+ Qt platform plugins for DDE.
+

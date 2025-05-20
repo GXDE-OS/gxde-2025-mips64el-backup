@@ -1,0 +1,19 @@
+Package: libddm-dev
+Architecture: mips64el
+Version: 0.1.10
+Priority: optional
+Section: libs
+Source: ddm
+Maintainer: justforlxz <zhangdingyuan@deepin.org>
+Installed-Size: 112
+Depends: libddm (= 0.1.10), qt6-base-dev
+Filename: ./l/libddm-dev/libddm-dev_0.1.10_mips64el.deb
+Size: 17832
+MD5sum: 86f9aeec7dd7844ae6bf776f88af9556
+SHA1: af24ca622041ccdc3edf38de904486aaaab69e22
+SHA256: 0d406d2adac80166078b869dcdb385320ed224e46f4da19fabddc94f34c75da6
+SHA512: f3300522c2cbe3888239364ae8054314fd4246a3141dfb8cf88315e4321a28b8c01d9f89376bac5c1718859e3864e41be6d4bbc5ddafe7b2387ef2102c17bf52
+Homepage: https://github.com/linuxdeepin/ddm.git
+Description: DDM devel library
+  provide PAM headers
+

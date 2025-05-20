@@ -1,0 +1,20 @@
+Package: libdtkcommon-dev
+Architecture: mips64el
+Version: 5.6.35
+Priority: optional
+Section: libdevel
+Source: dtkcommon
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 25
+Conflicts: libdtkcore-dev (<< 5.4.10)
+Replaces: libdtkcore-dev (<< 5.4.10)
+Filename: ./deb/libdtkcommon-dev_5.6.35_mips64el.deb
+Size: 5292
+MD5sum: e9940f6bf24d3c6309d6435105a060e8
+SHA1: 000769ede929fbc6ff88e9d5cb78fb63cb86a32c
+SHA256: 7c1f64f7ca6a22c13ec375c22db4a2e9bdb95923ce88a7d13990766d027855d5
+SHA512: d0bccf5e9fd11395a117be8c13c3c4bd4fab0fb227c177bb5d96aef10c7849e6913d20a488ec2e9ace5aef027e4f9b18d1176a000c88d194ed66cdba87b4c206
+Homepage: http://www.deepin.org/
+Description: dtk common files
+ Used to store public build files
+

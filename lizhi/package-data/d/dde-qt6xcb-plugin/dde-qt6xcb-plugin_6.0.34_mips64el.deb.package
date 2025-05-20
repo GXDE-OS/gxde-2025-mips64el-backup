@@ -1,0 +1,18 @@
+Package: dde-qt6xcb-plugin
+Architecture: mips64el
+Version: 6.0.34
+Priority: optional
+Section: devel
+Source: dde-qt6platform-plugins
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1234
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.4.0), libqt6gui6 (>= 6.8.2), libqt6opengl6 (>= 6.1.2), libqt6widgets6 (>= 6.1.2), libstdc++6 (>= 14), libx11-6, libxcb-composite0, libxcb-damage0, libxcb-icccm4 (>= 0.4.2), libxcb-shape0, libxcb-xfixes0, libxcb1 (>= 1.6), libxi6 (>= 2:1.2.99.4), qt6-base-private-abi (= 6.8.2)
+Filename: ./d/dde-qt6xcb-plugin/dde-qt6xcb-plugin_6.0.34_mips64el.deb
+Size: 290844
+MD5sum: e6b080ff2af460372bd11a7eab06183a
+SHA1: 0b317af532cb6c59e2df7606fd5104d348791a57
+SHA256: 79a40f3f3692de7fb61be7fbed77698c9e0b4ec9d8a5e228750fa2d424b915fa
+SHA512: c8990d1a1047973e16ec092cd1f9455553268634dd3a0636ccc7f0066ba4cb2c182686ce882cce364436530b594577adcee464f544d93795c16fb9447ea68bd0
+Description: Qt platform plugins
+ Qt platform plugins for DDE.
+

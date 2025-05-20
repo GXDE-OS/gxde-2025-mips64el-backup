@@ -1,0 +1,18 @@
+Package: libdeepin-pdfium5
+Architecture: mips64el
+Version: 1.5.3
+Priority: optional
+Section: libdevel
+Source: deepin-pdfium
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 5502
+Depends: libc6 (>= 2.33), libchardet1t64, libfreetype6 (>= 2.3.5), libgcc-s1 (>= 3.0), libicu76 (>= 76.1-1~), libjpeg62-turbo (>= 1.3.1), liblcms2-2 (>= 2.2+git20110628), libopenjp2-7 (>= 2.2.0), libqt5core5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 14), zlib1g (>= 1:1.1.4)
+Filename: ./l/libdeepin-pdfium5/libdeepin-pdfium5_1.5.3_mips64el.deb
+Size: 1839012
+MD5sum: c285e5d94c378f9ac84b7ec1b5386bfa
+SHA1: 0774fc9e6d26bd4c690241ea8d37427ec05bb06a
+SHA256: 900c87f9612fc55dfa66c1d04e3d73071bd8b07a122ea8306bd5e1cd2a31bd5f
+SHA512: 2f42f746715e8d35ee82d991caf0a9e6b97b0b9d8527add2e23beb931b14ac3183b92ed2b95634c9e077db429270f3476ea7e6a949e777c5a118c8b64562e8eb
+Description: A libaray about PDF base on Qt5.
+ A library for parsing and editing and displaying PDF.
+

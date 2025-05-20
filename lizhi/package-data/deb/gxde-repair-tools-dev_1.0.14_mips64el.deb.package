@@ -1,0 +1,19 @@
+Package: gxde-repair-tools-dev
+Architecture: mips64el
+Version: 1.0.14
+Priority: optional
+Section: utils
+Source: gxde-repair-tools
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 13
+Replaces: deepin-repair-tools-dev
+Filename: ./deb/gxde-repair-tools-dev_1.0.14_mips64el.deb
+Size: 2544
+MD5sum: d9721e3d5d8099f033c32b712c565504
+SHA1: 88c6df1b4408949e6580955a0199e929ff94e473
+SHA256: c760362a5fee91ccd9ad9025148ef710180e302a0c0280cdc3731fed00eb35d9
+SHA512: 73b985201dd41b30a20a833c29c54524e4d2d0e3f3a52e4872fc04d62a50d309e77cbf1110d69d7cf1cf30815234ca6d597d6bc6b745ced5940577794647d132
+Homepage: https://gxde.gfdgdxi.top
+Description: GXDE system repair tools - dev files
+ GXDE Repair Tools is a useful tools for system repair & clean.
+

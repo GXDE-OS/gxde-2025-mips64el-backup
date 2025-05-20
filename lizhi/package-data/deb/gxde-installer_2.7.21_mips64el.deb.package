@@ -1,0 +1,19 @@
+Package: gxde-installer
+Architecture: mips64el
+Version: 2.7.21
+Priority: extra
+Section: utils
+Source: gxde-installer-reborn
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 25160
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libparted2 (>= 3.1), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5 (>= 5.5.0), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libx11-6 (>= 2:1.2.99.901), libxext6, libxi6 (>= 2:1.2.99.4), libxrandr2 (>= 2:1.2.99.3), libxtst6, zlib1g (>= 1:1.1.4), gxde-installer-timezones, dosfstools, imageworsener, mtools, ntfs-3g, parted, pciutils, squashfs-tools, udev, x11-xserver-utils, xinit, xkb-data
+Filename: ./deb/gxde-installer_2.7.21_mips64el.deb
+Size: 16562300
+MD5sum: 22b74544ecdda76613b459ee3d31cc28
+SHA1: f2020ab678bf44273622a5247e8ca3e753f91d4b
+SHA256: f5d3b38657a0f5832bad441e3bef96aac2cc6bf29a1dce0c0beb150693e779f7
+SHA512: 8f51d18d525cb98ac09540ed9dc76b3716ae363c798bd4521e422718791b4d0cfb8e85d5aab796cefe417650853870d4dd317b45ffbedc2ef1844580ca7038a4
+Homepage: http://www.gfdgdxi.top
+Description: Release version of deepin installer
+ New version of gxde-installer, rewritten with Qt5.
+

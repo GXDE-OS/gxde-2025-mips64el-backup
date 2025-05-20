@@ -1,0 +1,29 @@
+Package: libwayland-cursor0
+Architecture: mips64el
+Version: 1.23.0-1~gxde15
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: wayland
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Installed-Size: 95
+Depends: libc6 (>= 2.28), libwayland-client0 (>= 1.20.0)
+Conflicts: libwayland0 (<< 1.1.0-1)
+Replaces: libwayland0 (<< 1.1.0-1)
+Filename: ./l/libwayland-cursor0/libwayland-cursor0_1.23.0-1~gxde15_mips64el.deb
+Size: 10560
+MD5sum: 75d961aaca781f8baa583f52a9152d1f
+SHA1: b88d5ec02b9af469e3bcaf1031e91eea36611917
+SHA256: e597948d4cc586d147d8bb0a7994034ff2ada38b35547e14cbdbedbd5ae522c5
+SHA512: 39a9e3da12ae93e7285d80acb7bf274c5db8ef5f2b61c3cf653ca8c7e109b77d5f75edad85bcff23656867d1cb6755907a0ce1cf9e18867a80056c770ef6f9ee
+Homepage: https://wayland.freedesktop.org/
+Description: wayland compositor infrastructure - cursor library
+ Wayland is a protocol for a compositor to talk to its clients as well
+ as a C library implementation of that protocol. The compositor can be
+ a standalone display server running on Linux kernel modesetting and
+ evdev input devices, an X application, or a wayland client
+ itself. The clients can be traditional applications, X servers
+ (rootless or fullscreen) or other display servers.
+ .
+ This package ships a helper library to manage cursors.
+

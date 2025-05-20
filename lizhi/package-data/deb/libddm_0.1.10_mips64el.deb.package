@@ -1,0 +1,20 @@
+Package: libddm
+Architecture: mips64el
+Version: 0.1.10
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: ddm
+Maintainer: justforlxz <zhangdingyuan@deepin.org>
+Installed-Size: 631
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt6core6t64 (>= 6.8.2), libqt6dbus6 (>= 6.6.1~), libqt6network6 (>= 6.6.1~), libqt6qml6 (>= 6.6.1~), libstdc++6 (>= 5.2), libxau6 (>= 1:1.0.11)
+Filename: ./deb/libddm_0.1.10_mips64el.deb
+Size: 113948
+MD5sum: db2eea1db14679c0372ebc28a2118287
+SHA1: ef8c0da1dea735a23c6d162ca68d6dca2e048881
+SHA256: 3b1cd77e64f89f860f41c389078e79db0e4a061aac4defe583865f4a4f785844
+SHA512: b946727e7987147cb15f826a3b464ca8d92a0e7fe8be9393a3c248d48fde85c1175654ba2c4ab57900766e1a6d6011786cb5bcb9a60e6bba3d9d83cd91fd280a
+Homepage: https://github.com/linuxdeepin/ddm.git
+Description: DDM library
+  provide PAM libraries
+

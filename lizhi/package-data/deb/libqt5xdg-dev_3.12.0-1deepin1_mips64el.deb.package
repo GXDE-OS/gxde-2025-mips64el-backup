@@ -1,0 +1,23 @@
+Package: libqt5xdg-dev
+Architecture: mips64el
+Version: 3.12.0-1deepin1
+Priority: optional
+Section: libdevel
+Source: libqtxdg
+Maintainer: LXQt Packaging Team <team+lxqt@tracker.debian.org>
+Installed-Size: 112
+Depends: libmagic-dev, libqt5xdg3 (= 3.12.0-1deepin1), libqt5xdgiconloader-dev (= 3.12.0-1deepin1)
+Recommends: qtxdg-dev-tools (= 3.12.0-1deepin1)
+Filename: ./deb/libqt5xdg-dev_3.12.0-1deepin1_mips64el.deb
+Size: 27512
+MD5sum: 4861f7f2efbd9b320d9354ea2e8243c8
+SHA1: 7865620e085eead8e0ef1f544f187c0ff6ddff6e
+SHA256: af6ee395b8645802edf2446f7d201992f8711b9b89fc31fe8520b5aa89be32c5
+SHA512: 2902b0624251566155d65ad0caf2829c427440a496c40847a7747d2f3ee49823995023c5cae5d089a04f05e6753dedb669c8681c60e46b77243c321cb7a4b94f
+Homepage: https://github.com/lxqt/libqtxdg
+Description: Development files for libqtxdg
+ This library implements functions of the XDG Specifications in Qt. It is part
+ of LXQt.
+ .
+ This package provides development files.
+

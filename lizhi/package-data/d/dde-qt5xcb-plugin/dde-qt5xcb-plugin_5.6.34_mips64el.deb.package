@@ -1,0 +1,22 @@
+Package: dde-qt5xcb-plugin
+Architecture: mips64el
+Version: 5.6.34
+Priority: optional
+Section: devel
+Source: dde-qt5platform-plugins
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 961
+Provides: libqt5dxcb-plugin
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libqt5widgets5t64 (>= 5.10.0), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 14), libx11-6, libxcb-composite0, libxcb-damage0, libxcb-icccm4 (>= 0.4.2), libxcb-shape0, libxcb-xfixes0, libxcb1 (>= 1.6), libxi6 (>= 2:1.2.99.4), qtbase-abi-5-15-15
+Conflicts: libqt5dxcb-plugin, qt5dxcb-plugin
+Breaks: dde-qt5integration (<< 0.2.8.1)
+Replaces: qt5dxcb-plugin
+Filename: ./d/dde-qt5xcb-plugin/dde-qt5xcb-plugin_5.6.34_mips64el.deb
+Size: 229824
+MD5sum: 9fe4368e7e4ff0ac178d7fe50da43842
+SHA1: 0fbfc5024468bc22691e148f309ac4319bb65011
+SHA256: ac816fcb6271db9bf444e6586df4ae5f302213bf935009099321c04981e07ffd
+SHA512: 775a79b7519e9aa4e4309318474594780f6d77582b4615aa3b0469ae9e599d6d6e31a8608e35e97472d37e20dff5d93e606cf2419ea473b85793383ad7e1d616
+Description: Qt platform plugins
+ Qt platform plugins for DDE.
+

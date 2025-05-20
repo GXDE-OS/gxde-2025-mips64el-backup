@@ -1,0 +1,19 @@
+Package: libgxtklog
+Architecture: mips64el
+Version: 0.0.2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: gxtklog
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 219
+Depends: libc6 (>= 2.32), libfmt9 (>= 9.1.0+ds1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.11.1), libspdlog1.10-fmt9, libstdc++6 (>= 11), libsystemd0, qtbase-abi-5-15-8
+Filename: ./l/libgxtklog/libgxtklog_0.0.2_mips64el.deb
+Size: 50132
+MD5sum: 08bd90e9b3c083128c931f0e3fd2a466
+SHA1: 6606f5c1569f81cfb236d65dbe3217b8e7e531ba
+SHA256: 78259fa675359b156aff75a257dea79a38de0a75db148b692fdbb028f82cf282
+SHA512: 80663bee5be6a4de36f78a4b3ee01566fd2fc524104cf68b0ca6fe955a79377e52844b5831bafeabc6cfe402be9ed2ac460573bfad581855e562b0f00c2c5fef
+Description: Simple, convinient and thread safe logger for Qt-based C++ apps.
+ This package contains the shared libraries.
+

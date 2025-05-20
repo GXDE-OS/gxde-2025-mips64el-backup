@@ -1,0 +1,17 @@
+Package: redict
+Architecture: mips64el
+Version: 0.8.1
+Priority: optional
+Section: utils
+Maintainer: Rekols <rekols@foxmail.com>
+Installed-Size: 376
+Depends: libc6 (>= 2.34), libdtkcore2 (>= 2.0.11), libdtkwidget2 (>= 15.11~2.2.5.1), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.0.2), libqt5widgets5 (>= 5.3.0), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 4.1.1), libx11-6, libxtst6
+Filename: ./r/redict/redict_0.8.1_mips64el.deb
+Size: 65984
+MD5sum: d864254891797cd9d8093f21c62cc95d
+SHA1: 7b715fcb0b6b21bc1427d8c4229cd7b25639d4e3
+SHA256: 9c7f2c8282182610c9cbda0b87faf21832088c3e0fb5a28d34b9e9f95dc1e399
+SHA512: c1da8aa2d19bc662f6e14a145a05b627ab08bda6bd179ee33a16598abfa5d7ccbbacb582b259ef4922ec080e86d84d5892eb33ffe298626a6f450d2c2a101471
+Homepage: https://github.com/rekols
+Description: A third-party youdao dictionary for deepin.
+

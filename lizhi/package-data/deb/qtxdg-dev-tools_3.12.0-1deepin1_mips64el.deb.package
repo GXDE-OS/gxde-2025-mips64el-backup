@@ -1,0 +1,23 @@
+Package: qtxdg-dev-tools
+Architecture: mips64el
+Version: 3.12.0-1deepin1
+Priority: optional
+Section: devel
+Source: libqtxdg
+Maintainer: LXQt Packaging Team <team+lxqt@tracker.debian.org>
+Installed-Size: 164
+Depends: libqt5xdg3 (= 3.12.0-1deepin1), libqt5xdgiconloader3 (= 3.12.0-1deepin1), libc6 (>= 2.34), libqt5core5a (>= 5.3.0), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libstdc++6 (>= 4.2.1)
+Filename: ./deb/qtxdg-dev-tools_3.12.0-1deepin1_mips64el.deb
+Size: 21476
+MD5sum: caca6a9c031cf0fcfc3c0880ad897146
+SHA1: 92733d2f18e632c24f0e0b149d267184344b38d2
+SHA256: 0c90c67d3725b3dc9060900c15f32a7d8268c6e01ab48b0cb533ed6b15c30e10
+SHA512: 7d61746b69acec23c06b7175ea2d3c61cae3cd9fd04758f0c25461b3dd6f3721cd4cb89efd0ede3ed2a518348f3aae9d0dec2bba4ee004768405d4ef21d2429d
+Homepage: https://github.com/lxqt/libqtxdg
+Description: Tools for QtXdg
+ This package provide some tools for qtxdg:
+ .
+  * qtxdg-desktop-file-start - QtXdg XdgDesktopFile start Tester
+  * qtxdg-iconfinder - Find icons the QtXdg way
+  * qtxdg-mat - Mime app tool for QtXdg
+

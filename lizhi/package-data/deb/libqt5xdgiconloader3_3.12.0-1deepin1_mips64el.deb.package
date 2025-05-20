@@ -1,0 +1,25 @@
+Package: libqt5xdgiconloader3
+Architecture: mips64el
+Version: 3.12.0-1deepin1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libqtxdg
+Maintainer: LXQt Packaging Team <team+lxqt@tracker.debian.org>
+Installed-Size: 163
+Provides: libqt5xdgiconloader
+Depends: libc6 (>= 2.4), libqt5core5a (>= 5.14.1), libqt5gui5 (>= 5.11.0~rc1) | libqt5gui5-gles (>= 5.11.0~rc1), libstdc++6 (>= 5), qtbase-abi-5-15-8
+Recommends: gtk-update-icon-cache
+Filename: ./deb/libqt5xdgiconloader3_3.12.0-1deepin1_mips64el.deb
+Size: 37444
+MD5sum: da7c8cb7f39874b965e1b7bf0b0cc9c4
+SHA1: cbec0ca99d6acabb9378bd0b037ef83f7e416677
+SHA256: 8796530a02b806479151f571746fc4250d8cf8adad9ac994b484af26bb208dec
+SHA512: 3aece5a90c4ed1c4e0545d99b5f87f103a45225c318c8a38a68ed6b16384dc638a54bf0e6e31a2cc240850e5ad068cc941f4769762565e89d6ba078afae017d0
+Homepage: https://github.com/lxqt/libqtxdg
+Description: Implementation of the XDG Iconloader for Qt (shared lib)
+ This library implements the backend to load icons which are handled according
+ to the XDG Icon Theme Specification in Qt. It is part of LXQt.
+ .
+ This package provides the shared library.
+

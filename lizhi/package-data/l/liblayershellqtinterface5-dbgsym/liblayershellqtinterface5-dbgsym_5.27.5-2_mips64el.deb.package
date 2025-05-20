@@ -1,0 +1,19 @@
+Package: liblayershellqtinterface5-dbgsym
+Architecture: mips64el
+Version: 5.27.5-2
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: layer-shell-qt
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 686
+Depends: liblayershellqtinterface5 (= 5.27.5-2)
+Filename: ./l/liblayershellqtinterface5-dbgsym/liblayershellqtinterface5-dbgsym_5.27.5-2_mips64el.deb
+Size: 657352
+MD5sum: 7046da1af649e3f96cc417fbbdcfcae9
+SHA1: 9e5f2c7ea693a3036dc642bd403ebf295ff3510f
+SHA256: 4cc3a004cd8cdb9e851b8ef33b0808b3cf34abdd4533923eb9653341dc554102
+SHA512: e0a2100906ed0a7cb1ee543bb540de43b0ef34990ca92f127a3e2852c3ff5ef2c0bf7901a6ee3c5d2581e7789bc11e878576816d158710bfd35c0bb3cd037e70
+Description: debug symbols for liblayershellqtinterface5
+Build-Ids: f4646369416b9dab4a4aacfa660e3ede50812a73
+

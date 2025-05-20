@@ -1,0 +1,18 @@
+Package: dde-polkit-agent-dev
+Architecture: mips64el
+Version: 0.3.1
+Priority: optional
+Section: devel
+Source: dde-polkit-agent
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 13
+Filename: ./deb/dde-polkit-agent-dev_0.3.1_mips64el.deb
+Size: 2696
+MD5sum: 42a5855287a8fd042e639a4aeaab91f7
+SHA1: c46ab19efb354916feb77a707582e3559654fb3b
+SHA256: 77ef971f9f9b6e8aa04b936e6f67a0253d38fd412303252173cda7d993de592e
+SHA512: 4ffbd92796c11533cc25ee4c90e3ed57f0f67932f441df4fb70b5ee94e8701e5e7711c527a94614d61800388a9bc06f4fd22eb57ba5672c0df4d927b81fa3571
+Homepage: http://www.deepin.org/
+Description: developement files of dde-polkit-agent extensions.
+ Development files of dde-polkit-agent extensions.
+

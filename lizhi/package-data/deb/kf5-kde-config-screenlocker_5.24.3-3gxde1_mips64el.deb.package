@@ -1,0 +1,32 @@
+Package: kf5-kde-config-screenlocker
+Architecture: mips64el
+Version: 5.24.3-3gxde1
+Priority: optional
+Section: libs
+Source: kscreenlocker
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 630
+Depends: kf5-libkscreenlocker5 (= 5.24.3-3gxde1), perl:any, kpackagetool5, libc6 (>= 2.4), libkf5configcore5 (>= 5.69.0), libkf5configgui5 (>= 4.97.0), libkf5coreaddons5 (>= 5.2.0), libkf5declarative5 (>= 5.86~), libkf5globalaccel-bin, libkf5globalaccel5 (>= 5.86~), libkf5i18n5 (>= 5.86~), libkf5kcmutils5 (>= 5.86~), libkf5package5 (>= 5.42.0), libkf5quickaddons5 (>= 5.86~), libkf5xmlgui5 (>= 5.86~), libqt5core5t64 (>= 5.15.0~), libqt5dbus5t64 (>= 5.15.0~), libqt5gui5t64 (>= 5.15.0~) | libqt5gui5-gles (>= 5.15.0~), libqt5qml5 (>= 5.15.0~), libqt5widgets5t64 (>= 5.15.0~), libstdc++6 (>= 5)
+Conflicts: kde-config-screenlocker
+Filename: ./deb/kf5-kde-config-screenlocker_5.24.3-3gxde1_mips64el.deb
+Size: 81680
+MD5sum: edd5a0f51775710a281320c83187ed87
+SHA1: ee699760d88cd57b94558e88b3ce97b6949f06c2
+SHA256: 545423443c2006b9f816753ab95f99463fb3044bcf20692c216d6fd89b2fdc82
+SHA512: e0e9d1a9c2c370ffb278a64882b7f3f8a7477e5db7f6612a2e8e48632ff4d6dd66472e6dda5664b7200cf373b4bbfdb72405f7a5f60ca6c1154ff700904f9857
+Homepage: https://invent.kde.org/plasma/kscreenlocker
+Description: KCM Module for kscreenlocker
+ KDE systemsettings module to configure kscreenlocker.
+ .
+ kscreenlocker can be configured to support the PAM ("Pluggable Authentication
+ Modules") system for password checking (for unlocking the display).
+ .
+ PAM is a flexible application-transparent configurable user-authentication
+ system found on FreeBSD, Solaris, and Linux (and maybe other unixes).
+ .
+ Information about PAM may be found on its homepage
+       http://www.kernel.org/pub/linux/libs/pam/
+ (Despite the location, this information is NOT Linux-specific.)
+ .
+ This package contains the KCM settings module for kscreenlocker.
+

@@ -1,0 +1,27 @@
+Package: libpostproc-dev
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 154
+Depends: libavutil-dev (= 7:6.1.1-2), libpostproc57 (= 7:6.1.1-2)
+Filename: ./l/libpostproc-dev/libpostproc-dev_6.1.1-2_mips64el.deb
+Size: 69640
+MD5sum: 2c0862d5f3de456d444bb64390a25358
+SHA1: 3a2c433adc80ab6ef09fca347c013dcf4f136334
+SHA256: 47fd332b7877cd39ece05edda2c05506134a526fb4b65a8d97797567d6766a7c
+SHA512: 482e324f322aac041b16857c1c5df176fba90a84244adcd15726b24df76efa583a69a852165c81fb8bc4cc64bf8d5fdb286cd4c1acf16cfd14c6c04518dd7906
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library for post processing - development files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library provides video post processing.
+ .
+ This package contains the development files.
+

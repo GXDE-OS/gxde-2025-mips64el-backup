@@ -1,0 +1,19 @@
+Package: libdtk6systemsettings-dbgsym
+Architecture: mips64el
+Version: 6.0.2
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dtk6systemsettings
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 10096
+Depends: libdtk6systemsettings (= 6.0.2)
+Filename: ./l/libdtk6systemsettings-dbgsym/libdtk6systemsettings-dbgsym_6.0.2_mips64el.deb
+Size: 9696132
+MD5sum: 9d1dd249c7d8516ce8ffca6dc2d502e4
+SHA1: 9c781b2f41d1c3860f522a2ee41dcbc7c01ba3ca
+SHA256: e49c40c239e5fe8a78107090209174fd43f5810d82252009ab9a2e189a999356
+SHA512: 2f0a8e0dbef5ae83ae561f20219abbe8ff5af8f3d598ba987c6f8dd6df6cd53248bde55fb9aa146d227a3d57de41a8c92296e3e8a9a48fbb657500e38c979e38
+Description: debug symbols for libdtk6systemsettings
+Build-Ids: abc9d1005f3b19093734a16a25ae5bd9ab5f73d3
+

@@ -1,0 +1,21 @@
+Package: gxde-kwin-dev
+Architecture: mips64el
+Version: 5.7.1
+Priority: optional
+Section: libdevel
+Source: gxde-kwin
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 7
+Provides: dde-kwin-dev
+Conflicts: dde-kwin-dev
+Replaces: dde-kwin-dev
+Filename: ./deb/gxde-kwin-dev_5.7.1_mips64el.deb
+Size: 1300
+MD5sum: bf05f71ddbb472924f031659998f5891
+SHA1: 522099d89386ffd781b8e4886789126ae18de4f9
+SHA256: 4e80c3be4ddd7f3f4157d6f30080129036f5a34dc9648b18eaf85849bb400278
+SHA512: 4b3b1818803679198f1387ac19589060c21b44c1f6ee46bad2aaa343ff7bc330b2b68a04c5ad2850d643f0abb827557162a48d80607005ee3be180035109e3c9
+Homepage: https://gitee.com/GXDE-OS/gxde-kwin
+Description: Developer package of gxde-kwin
+ Provide gxde-kwin plugin implementation basis files.
+

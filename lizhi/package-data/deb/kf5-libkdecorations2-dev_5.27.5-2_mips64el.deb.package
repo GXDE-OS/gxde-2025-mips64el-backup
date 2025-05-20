@@ -1,0 +1,25 @@
+Package: kf5-libkdecorations2-dev
+Architecture: mips64el
+Version: 4:5.27.5-2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: kdecoration
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 112
+Depends: kf5-libkdecorations2-5v5 (= 4:5.27.5-2), kf5-libkdecorations2private10 (= 4:5.27.5-2), qtbase5-dev (>= 5.15.2~)
+Conflicts: libkdecorations2-dev
+Filename: ./deb/kf5-libkdecorations2-dev_5.27.5-2_mips64el.deb
+Size: 19724
+MD5sum: ef67a1a43dc65cb3759c0305bb6567bc
+SHA1: b5b51b57815d2962619cf53b7ac8e82217659cce
+SHA256: aae404db4b2324bc874346aa763a663fc2609947516b31f1bd96764a1673b797
+SHA512: cdeaba4d172df3d307410b2391a2d0a65218dbfe8be065955800d05efc0cb9ab5a0443be63ad021bd413748f9a036edf5a1aaad17f5d7632d44361d8f3d8309a
+Homepage: https://invent.kde.org/plasma/kdecoration
+Description: library to create window decorations - development files
+ KDecoration2 is a library to create window decorations. These window
+ decorations can be used by for example an X11 based window manager
+ which re-parents a Client window to a window decoration frame.
+ .
+ This package contains the development files.
+

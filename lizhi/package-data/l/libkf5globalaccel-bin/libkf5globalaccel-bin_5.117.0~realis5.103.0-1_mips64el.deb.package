@@ -1,0 +1,27 @@
+Package: libkf5globalaccel-bin
+Architecture: mips64el
+Version: 5.117.0~realis5.103.0-1
+Priority: optional
+Section: libs
+Source: kglobalaccel
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 161
+Provides: kglobalacceld (= 5.117.0~realis5.103.0-1)
+Depends: libkf5globalaccel-data (= 5.117.0~realis5.103.0-1), libc6 (>= 2.34), libkf5coreaddons5 (>= 5.103.0~), libkf5crash5 (>= 5.103.0~), libkf5dbusaddons5 (>= 5.103.0~), libkf5globalaccelprivate5 (>= 5.94.0), libkf5windowsystem5 (>= 5.103.0~), libqt5core5t64 (>= 5.15.2~), libqt5gui5t64 (>= 5.15.2~) | libqt5gui5-gles (>= 5.15.2~), libqt5widgets5t64 (>= 5.15.2~), libqt5x11extras5 (>= 5.15.2~), libstdc++6 (>= 5), libx11-6, libxcb-keysyms1 (>= 0.4.1), libxcb-record0, libxcb-xkb1, libxcb1
+Conflicts: kglobalacceld
+Replaces: kglobalacceld
+Filename: ./l/libkf5globalaccel-bin/libkf5globalaccel-bin_5.117.0~realis5.103.0-1_mips64el.deb
+Size: 17576
+MD5sum: 0046be5f7ceaf786cdcfa35897c0f181
+SHA1: 8584659ebaf265290d05d3c86fd1ae455df2a5ab
+SHA256: a5f9a8dfbb58ffff15c9a335a484edc3b60912472814539d54b83f0b2c403346
+SHA512: c2c2b74b632708df6453f71054df87ce06c63b7656d29407689682197d88924f4eb82eb4c3d1247fa82b1cc3f4c8f8588cebd7fe372cfa275c217a777bb8560f
+Homepage: https://invent.kde.org/frameworks/kglobalaccel
+Description: Configurable global shortcut support.
+ KGlobalAccel allows you to have global accelerators that are
+ independent of the focused window. Unlike regular shortcuts,
+ the application's window does not need focus for them to be
+ activated.
+ .
+ This package contains binaries.
+

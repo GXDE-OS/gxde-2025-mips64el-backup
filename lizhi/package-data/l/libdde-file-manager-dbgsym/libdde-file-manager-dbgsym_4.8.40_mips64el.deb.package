@@ -1,0 +1,20 @@
+Package: libdde-file-manager-dbgsym
+Architecture: mips64el
+Version: 4.8.40
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 70689
+Depends: libdde-file-manager (= 4.8.40)
+Filename: ./l/libdde-file-manager-dbgsym/libdde-file-manager-dbgsym_4.8.40_mips64el.deb
+Size: 70721236
+MD5sum: 08aaeb557586f802c24905759a5d7d8d
+SHA1: ca570f0f54a6111b0d4127299184d588e4e12508
+SHA256: ce4108618db1e1a8fc31045eff1b843ac61490fa99d7c2d81e42531a87b03de0
+SHA512: 70aaf54a3153dd72b4677893975670108f0d040fcb34a778dc6ea4c46c9b8bc87ffac52f91f304f99050ab5e91a40a4c08deaf75bddab8d761565fee0c980f3c
+Description: debug symbols for libdde-file-manager
+Build-Ids: b89116aa6f0ad72b2d3e4d95f5843a5958ba9ebe e66f50049aa8afd34ffd0c22506f6f4611b3c1d7 eeee86df4bd65a7eab3d01a5028cc343787c5d1a f3e7168a956b8d88d562ff07466504a78ed1c3d5 f837d592512fb123a93690fe59d24d0ab6b133b4 fa6e5fec81d3e0274cea7dceecddbbb1a13b884f
+

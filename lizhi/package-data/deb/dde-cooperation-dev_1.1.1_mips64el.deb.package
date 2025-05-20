@@ -1,0 +1,19 @@
+Package: dde-cooperation-dev
+Architecture: mips64el
+Version: 1.1.1
+Priority: optional
+Section: libdevel
+Source: dde-cooperation
+Maintainer: Deepin Packages Builder <packages@linuxdeepin.com>
+Installed-Size: 98
+Depends: dde-cooperation (= 1.1.1)
+Filename: ./deb/dde-cooperation-dev_1.1.1_mips64el.deb
+Size: 16444
+MD5sum: 7743933200a62dc1417dfb1171e48d46
+SHA1: b78bf13841f56ef06413fd7382e17f28f3ec6cea
+SHA256: e98397c775c4e79da3fc4a7d023e09c7912b8fe82cd6bc53b51e725df8ac5aa3
+SHA512: d44cd11e76925cbaeeed20d8fb363469b6cbf5f87031eb75623508490728cd097cfd1a5625e61b69b70c52907296a9f24da6f4363b79cdc39120ae8b24768c2f
+Homepage: http://www.deepin.org
+Description: Development package for deepin cooperation application
+ This package contains the header files and static libraries
+

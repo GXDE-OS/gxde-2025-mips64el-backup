@@ -1,0 +1,18 @@
+Package: dde-calendar
+Architecture: mips64el
+Version: 15.11~1.2.12.1
+Priority: optional
+Section: utils
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 427
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14-2.2.5.8), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5widgets5 (>= 5.0.2), libstdc++6 (>= 5), dde-api
+Filename: ./deb/dde-calendar_15.11~1.2.12.1_mips64el.deb
+Size: 71792
+MD5sum: db10838ec6abb21720483604519e58f6
+SHA1: 70ac59a70f5b7e6b425a2a602d7d5879721aef81
+SHA256: 248d748e1ca036e6317eb24997302d8a5376c66681c119e250db6fed241eee3b
+SHA512: 3b2510b0dac16ed0b956929d2c2f70b67b4c2cbf1c101eaff096ac23edd0646f8d001f19f156730bb5fcf044349721e2b81c91ccd5cc5cc4d1968f0184b1b867
+Homepage: http://www.deepin.org
+Description: Calendar software for Deepin OS
+ Calendar for Deepin Desktop Environment.
+

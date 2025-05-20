@@ -1,0 +1,20 @@
+Package: deepin-movie
+Architecture: mips64el
+Version: 6.0.10gxde2
+Priority: extra
+Section: libdevel
+Source: deepin-movie-reborn
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 22091
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.6), libdtkgui5 (>= 5.6), libdtkwidget5 (>= 5.6), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libmpris-qt5-1 (>= 1.0.3), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.14.1) | libqt5gui5-gles (>= 5.14.1), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5 (>= 5.14.1), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libx11-6, libxcb-shape0, libxcb1, libxtst6, dconf-gsettings-backend | gsettings-backend, libavcodec60, libavformat60, libavutil58, libffmpegthumbnailer4v5, libmpv2, libpulse0 (>= 0.99.1), libqt5concurrent5, libdmr
+Recommends: libgpuinfo
+Filename: ./deb/deepin-movie_6.0.10gxde2_mips64el.deb
+Size: 9374060
+MD5sum: ed50fa0120b269727a7c7fe1e9b4cca5
+SHA1: ac14b314a03d1afc690a9a69e8e57427b21f2699
+SHA256: ebf02e673187c10c6ac7d0cd8f8b8bace4fd8b6c1336dbaec30870213753e52d
+SHA512: f0630233bc3d2ad50315a1f655c87ff832a0014076afe9c27f475fdc391850d71eb3ef92e9b26632973be7085b0caf740c54e28bbd009cf27add791cd58947d4
+Homepage: https://www.deepin.org/
+Description: movie player
+ Movie is a full-featured video player, supporting playing local and streaming media in multiple video formats.
+

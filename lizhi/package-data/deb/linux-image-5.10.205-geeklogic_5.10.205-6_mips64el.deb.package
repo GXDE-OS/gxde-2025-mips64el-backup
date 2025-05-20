@@ -1,0 +1,19 @@
+Package: linux-image-5.10.205-geeklogic
+Architecture: mips64el
+Version: 5.10.205-6
+Priority: optional
+Section: kernel
+Source: linux-5.10.205-geeklogic
+Maintainer: wells <wells@Shadow2>
+Installed-Size: 222402
+Filename: ./deb/linux-image-5.10.205-geeklogic_5.10.205-6_mips64el.deb
+Size: 45721116
+MD5sum: 2edfeb8cdbc7d75c702905253280fd15
+SHA1: 8cd4fec9a8ff15bce50a9367a5d0555930546ff8
+SHA256: 3683ff8ebe1b4ee516ba320082ee2ff2942d31005eb7db899d06908a1b7db56d
+SHA512: 727a5fe540a93ccada5a7e8f950a4bcf8eb1e3e38bda1966c6cbd57262c97651e0ace3165b85874cb7d2d45ff3851da0e93eb9c76515be2567cba3d0ee7919bd
+Homepage: https://www.kernel.org/
+Description: Linux kernel, version 5.10.205-geeklogic
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 5.10.205-geeklogic.
+

@@ -1,0 +1,23 @@
+Package: gxde-music
+Architecture: mips64el
+Version: 3.2.2
+Priority: extra
+Section: sound
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 4040
+Depends: libavformat61 (>= 7:7.0), libc6 (>= 2.34), libcue2, libdtkcore5 (>= 5.7.11), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libicu76 (>= 76.1-1~), libmpris-qt5-1 (>= 1.0.3), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.14.1), libqt5gui5t64 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5multimedia5 (>= 5.6.0~beta), libqt5network5t64 (>= 5.14.1), libqt5sql5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.15.1), libstdc++6 (>= 14), libtag2 (>= 2.0), gstreamer1.0-libav, gstreamer1.0-plugins-base, gstreamer1.0-plugins-good, gstreamer1.0-plugins-bad, gstreamer1.0-plugins-ugly, gstreamer1.0-pulseaudio, libqt5sql5-sqlite, libqt5multimedia5-plugins, gvfs
+Replaces: deepin-music
+Filename: ./deb/gxde-music_3.2.2_mips64el.deb
+Size: 1622908
+MD5sum: ab63102bfe601fdc1ca585909dd62e15
+SHA1: ae4042518ab45276421dbc23977bdce0c6863f18
+SHA256: f583dd5ad71be92a6ebe404c6b237c444191c66c641c3c8cea65886d9016e7ed
+SHA512: 5b4a18fcb184b47abd7f27239e867a0fc68ad7a1e16766b956844c6ac9f5236524ca394a6d9546a9fd6ad4ca9aff0d3064061f85959a6e9d019961a8d579a6da
+Homepage: https://gitee.com/GXDE-OS/gxde-music
+Description: Awesome music player with brilliant and tweakful UI
+ GXDE-UI based, gstreamer front-end, with features likes search music
+ by pinyin,quanpin, colorful lyrics supports, and more powerful
+ functions you will found.
+ .
+ Just enjoy it! have fun!
+

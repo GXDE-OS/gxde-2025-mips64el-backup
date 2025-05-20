@@ -1,0 +1,23 @@
+Package: liblayershellqtinterface5
+Architecture: mips64el
+Version: 5.27.5-2
+Priority: optional
+Section: libs
+Source: layer-shell-qt
+Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Installed-Size: 96
+Depends: libc6 (>= 2.4), libqt5core5t64 (>= 5.4.0), libqt5gui5t64 (>= 5.2.0) | libqt5gui5-gles (>= 5.2.0), libqt5waylandclient5 (>= 5.15.2~), libstdc++6 (>= 5), libwayland-client0 (>= 1.20.0), qtbase-abi-5-15-15, qtwayland-client-abi-5-15-15
+Recommends: layer-shell-qt5 (= 5.27.5-2)
+Filename: ./deb/liblayershellqtinterface5_5.27.5-2_mips64el.deb
+Size: 17352
+MD5sum: 3330646e558d76b8f5666e42cac0c89f
+SHA1: 49a1222401e3a7e0c3f75e7f8f035cd8b51a1a8b
+SHA256: 97007ae5224f185e77f437f1ef6b1c2b53b4317b1acb3e25489889dd984cb536
+SHA512: 91baf1da2bbddb2086e9fdbd14bcc48030fe725aba364e6e478c65c9ee2cbd1b9f075cea088121e97add4342a25c65a4e70460f5002c4976d3560894e2d1fb99
+Homepage: http://www.kde.org/
+Description: use the Wayland wl-layer-shell protocol - run-time library
+ Qt component to allow applications to make use of the Wayland
+ wl-layer-shell protocol.
+ .
+ This package includes the library.
+

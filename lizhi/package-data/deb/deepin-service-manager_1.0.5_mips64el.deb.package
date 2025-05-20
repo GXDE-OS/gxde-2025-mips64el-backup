@@ -1,0 +1,19 @@
+Package: deepin-service-manager
+Architecture: mips64el
+Version: 1.0.5
+Priority: optional
+Section: admin
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 625
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libstdc++6 (>= 5.2), libsystemd0 (>= 221)
+Recommends: deepin-service-plugins
+Filename: ./deb/deepin-service-manager_1.0.5_mips64el.deb
+Size: 84436
+MD5sum: 9c8886dd305d68c95f50717a61ae52f2
+SHA1: 3065bb8e023c83e6e459961b9031c1217ed4863d
+SHA256: 6ba5381465a87f3ef0a7d98b8b2e9a9a90d3f1d304d3d90dbd015a75ee340381
+SHA512: 02745c25d936a6c13bfb588dfca96b0b6a73cbb34d7f66ce1ead5296debb5f55f361a63c53178d51e7ad69fead60f0c9c811e9af8139c7ee83eb80ce294ad928
+Homepage: https://github.com/linuxdeepin
+Description: deepin desktop-environment - service manager frame
+ Load system plug-ins for unified management
+

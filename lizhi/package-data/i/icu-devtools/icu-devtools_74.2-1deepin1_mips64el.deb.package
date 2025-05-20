@@ -1,0 +1,25 @@
+Package: icu-devtools
+Architecture: mips64el
+Version: 74.2-1deepin1
+Multi-Arch: foreign
+Priority: optional
+Section: libdevel
+Source: icu
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 1357
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libicu74 (>= 74.1-1~), libstdc++6 (>= 11)
+Breaks: icu-tools (<< 74.1~rc-1~), libicu-dev (<< 74.2-1deepin1)
+Replaces: icu-tools (<< 74.1~rc-1~), libicu-dev (<< 74.2-1deepin1)
+Filename: ./i/icu-devtools/icu-devtools_74.2-1deepin1_mips64el.deb
+Size: 205076
+MD5sum: a408508fc5ff1bb231c3f0c9b191dcee
+SHA1: 4b94d8b3783421cecc358a4991cc63ffd9126c0f
+SHA256: 0444a89d99c29492aad923ab32d7d1de1f6b01f444b2ba4d05b55faa24fc74b6
+SHA512: 95a71823ed5e759dc14afcc395ecfb185764c368ab8efee223abf8f016f08089ec21fc1e29567496e00b3dde41a66dca03d3d7737fbc24e0d6522d9665366d90
+Homepage: https://icu.unicode.org/
+Description: Development utilities for International Components for Unicode
+ ICU is a C++ and C library that provides robust and full-featured
+ Unicode and locale support. This package contains programs used to
+ manipulate data files found in the ICU sources and is a dependency of
+ libicu-dev.  End users would generally not need to install this package.
+

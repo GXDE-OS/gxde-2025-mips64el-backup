@@ -1,0 +1,18 @@
+Package: libdeepin-pdfium-dev
+Architecture: mips64el
+Version: 1.5.3
+Priority: optional
+Section: libdevel
+Source: deepin-pdfium
+Maintainer: deepin <packages@deepin.com>
+Installed-Size: 40
+Depends: libdeepin-pdfium
+Filename: ./deb/libdeepin-pdfium-dev_1.5.3_mips64el.deb
+Size: 8120
+MD5sum: 468d99175eff605864b38d36d98d32dc
+SHA1: 3df935f30b62b6bbea97952f1bbb36020eda05e5
+SHA256: 492e3d57f6272eaa5e2bda62af20fd119bdfd5300af3d914c63e2652ae85a0f1
+SHA512: b71aefbb4e4428a1bb301143eecdf1150416890b6db4b1eed19888d5e83952bc62d55912bee37c544817e8d2ab23e00b316a36862055d7b05fb7b417cc6a0a3b
+Description: A libaray about PDF dev base on Qt6.
+ A libaray that provides for parsing and editing and displaying PDF interface dev.
+

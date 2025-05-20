@@ -1,0 +1,25 @@
+Package: libqt5xdg3
+Architecture: mips64el
+Version: 3.12.0-1deepin1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: libqtxdg
+Maintainer: LXQt Packaging Team <team+lxqt@tracker.debian.org>
+Installed-Size: 312
+Provides: libqt5xdg
+Depends: file, libfile-mimeinfo-perl, libglib2.0-bin, shared-mime-info, libc6 (>= 2.4), libglib2.0-0 (>= 2.39.4), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.0.2), libqt5gui5 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5 (>= 5.1.0), libqt5xdgiconloader3 (>= 3.10.0~), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5), qtbase-abi-5-15-8
+Recommends: qttranslations5-l10n
+Filename: ./l/libqt5xdg3/libqt5xdg3_3.12.0-1deepin1_mips64el.deb
+Size: 85308
+MD5sum: 429eb0e241936302b12336929eee5ea9
+SHA1: 1516e7c0ef91d964f0251bfab139986041f45b9b
+SHA256: 14d5f49a96a7b65509d06d5caf056d8e543593cd6b3ff925dc74b444b3238910
+SHA512: 2b5eaa38b82ffcf9328fe1909e659e236d61e47843d9f622b2c454c2d10a7927e5363115eaa17cc23ec001503e2f1af065fd92c9d550153d53ea15a7a6450211
+Homepage: https://github.com/lxqt/libqtxdg
+Description: Implementation of the XDG Specifications for Qt (shared lib)
+ This library implements functions of the XDG Specifications in Qt.  It is part
+ of LXQt.
+ .
+ This package provides the shared library.
+

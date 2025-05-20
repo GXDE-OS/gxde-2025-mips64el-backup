@@ -1,0 +1,17 @@
+Package: gxde-sendbylan
+Architecture: mips64el
+Version: 1.7.4
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 372
+Depends: libc6 (>= 2.34), libdtkcore5 (>= 5.7.11), libdtkwidget2 (>= 2:2.3.1), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.15.1), libqt5gui5t64 (>= 5.3.0) | libqt5gui5-gles (>= 5.3.0), libqt5network5t64 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 5.2), dde-file-manager, python3
+Filename: ./deb/gxde-sendbylan_1.7.4_mips64el.deb
+Size: 215272
+MD5sum: 9e1692cf8e079a7a7f9410e069504b8e
+SHA1: 39b1ee8a202e571bb0b311de6c349365b438a19a
+SHA256: f5b6acf1237077e273a94827e27afd4621eafab500791c1b3bb23204f6158331
+SHA512: f4a873832af7fb65f111b40fd23fa964d70b55ac166581a723fd6c7e1ca9cfc6b171532ecb2cf1fd9b0aea62cc58109257df1de2dd0092b7a0af1930d51772ad
+Homepage: https://gitee.com/GXDE-OS/gxde-sendbylan
+Description: 可以方便的在局域网分享文件，支持手机扫码下载;在文件夹下右键选择“分享到局域网”即可使用。
+

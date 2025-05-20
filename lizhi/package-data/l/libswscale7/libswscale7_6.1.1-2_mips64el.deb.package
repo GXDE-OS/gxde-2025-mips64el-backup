@@ -1,0 +1,38 @@
+Package: libswscale7
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 629
+Depends: libavutil58 (= 7:6.1.1-2), libc6 (>= 2.34)
+Filename: ./l/libswscale7/libswscale7_6.1.1-2_mips64el.deb
+Size: 185496
+MD5sum: 14806d8c8560073f12a0209d5185a82e
+SHA1: 5028e7022cc024ba08f6b852a06fe13a0c5cff21
+SHA256: 467566c6ea1b77047b2862f6d0e9e68ecd97d4b9f831b21cf0a402bc3b829319
+SHA512: 76230f08c41b28a4a24bcc0c422b8dc94a737b0a7a03c35fbb0ff3205cf4ae435056803702a1b0b61cfb4f99582e4b18a656d70c9183dff450f5262e3ce0a284
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library for image scaling and various conversions - runtime files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library performs highly optimized image scaling and colorspace and pixel
+ format conversion operations.
+ Specifically, this library performs the following conversions:
+  * Rescaling is the process of changing the video size. Several rescaling
+    options and algorithms are available. This is usually a lossy process.
+  * Pixel format conversion is the process of converting the image format and
+    colorspace of the image, for example from planar YUV420P to RGB24 packed.
+    It also handles packing conversion, that is converts from packed layout
+    (all pixels belonging to distinct planes interleaved in the same buffer),
+    to planar layout (all samples belonging to the same plane stored in a
+    dedicated buffer or "plane"). This is usually a lossy process in case the
+    source and destination colorspaces differ.
+ .
+ This package contains the runtime files.
+

@@ -1,0 +1,30 @@
+Package: libavformat-dev
+Architecture: mips64el
+Version: 7:6.1.1-2
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: ffmpeg
+Maintainer: Debian Multimedia Maintainers <debian-multimedia@lists.debian.org>
+Installed-Size: 7335
+Depends: libavcodec-dev (= 7:6.1.1-2), libavformat60 (= 7:6.1.1-2), libavutil-dev (= 7:6.1.1-2), libswresample-dev (= 7:6.1.1-2)
+Filename: ./l/libavformat-dev/libavformat-dev_6.1.1-2_mips64el.deb
+Size: 1427356
+MD5sum: 8f35ae2d79a47c6d6b866d188e4d981d
+SHA1: ec843a41f834e645be4210bd22ef86f4918dc639
+SHA256: c05f518d1383eb685d8f7d8eb614a9a41a8e0384d9385d42c35c46cfa312c6e0
+SHA512: 0ea9d23883cd268ef3ad1f7c13929b68a9985aa390fd5dbfa96ba4e26cc32c916d2f228f9996e25819fc3553611f29803b0721872ffebadbad03fd9d58e92e94
+Homepage: https://ffmpeg.org/
+Description: FFmpeg library with (de)muxers for multimedia containers - development files
+ FFmpeg is the leading multimedia framework, able to decode, encode, transcode,
+ mux, demux, stream, filter and play pretty much anything that humans and
+ machines have created. It supports the most obscure ancient formats up to the
+ cutting edge.
+ .
+ This library provides a generic framework for multiplexing and demultiplexing
+ (muxing and demuxing) audio, video and subtitle streams. It encompasses
+ multiple muxers and demuxers for multimedia container formats. It also
+ supports several input and output protocols to access a media resource.
+ .
+ This package contains the development files.
+

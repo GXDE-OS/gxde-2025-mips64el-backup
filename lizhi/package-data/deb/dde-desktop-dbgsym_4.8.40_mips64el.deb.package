@@ -1,0 +1,19 @@
+Package: dde-desktop-dbgsym
+Architecture: mips64el
+Version: 4.8.40
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 16862
+Depends: dde-desktop (= 4.8.40)
+Filename: ./deb/dde-desktop-dbgsym_4.8.40_mips64el.deb
+Size: 11919204
+MD5sum: f6dc41b846ce311fca04309431290009
+SHA1: 5095d8217066768ba6e0e845882725b9bbea5931
+SHA256: 9475d6497af1ff095001c287c91717a48ebe89a22d680fbd5c077a7a762ec1fa
+SHA512: 57b396a065d04d7b58f521c2536280efb2ed14ccffc1c7c23094204c0ae891139459ee2f02b7db3e0775641c645a3d6faf34c278db1894df71e724619d91df95
+Description: debug symbols for dde-desktop
+Build-Ids: 82fe87bd15a56d93a56a64882f1954ddd449e61f
+

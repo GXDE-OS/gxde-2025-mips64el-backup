@@ -1,0 +1,24 @@
+Package: libicu74
+Architecture: mips64el
+Version: 74.2-1deepin1
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: icu
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 37398
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libstdc++6 (>= 12)
+Breaks: libiculx63 (<< 63.1-5), openttd (<< 1.8.0-2~)
+Replaces: libiculx63 (<< 63.1-5)
+Filename: ./l/libicu74/libicu74_74.2-1deepin1_mips64el.deb
+Size: 9293248
+MD5sum: cfafd44ad6fae48ecc2d5104a1750417
+SHA1: afed144b3217e620e5b758366208db85bd39001c
+SHA256: cd487408a15aaaa8f9549b3f949471a610da7cada7cc94bf5a0401688df9dd29
+SHA512: d470023375fb9496420c9f1ad329414b8b36719e387f18d760f361cdb0fa762a9473e474e09cedbf80fdd2e1af322da15f2becaf51840c7f7ac7cd572d2228f4
+Homepage: https://icu.unicode.org/
+Description: International Components for Unicode
+ ICU is a C++ and C library that provides robust and full-featured
+ Unicode and locale support.  This package contains the runtime
+ libraries for ICU.
+

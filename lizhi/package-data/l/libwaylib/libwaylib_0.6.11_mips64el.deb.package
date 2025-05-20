@@ -1,0 +1,20 @@
+Package: libwaylib
+Architecture: mips64el
+Version: 0.6.11
+Multi-Arch: same
+Priority: optional
+Section: libdevel
+Source: waylib
+Maintainer: JiDe Zhang <zhangjide@deepin.org>
+Installed-Size: 3689
+Depends: libc6 (>= 2.33), libdrm2 (>= 2.4.113), libegl1, libgcc-s1 (>= 3.0), libopengl0, libpixman-1-0 (>= 0.25.2), libqt6core6t64 (>= 6.8.2), libqt6gui6 (>= 6.4.0), libqt6qml6 (>= 6.6.0), libqt6quick6 (>= 6.7.2), libstdc++6 (>= 14), libwayland-server0 (>= 1.20.92), libwlroots-0.18 (>= 0.18.0), libxcb1, libxkbcommon0 (>= 0.5.0), qt6-base-private-abi (= 6.8.2), qt6-declarative-private-abi (= 6.8.2)
+Filename: ./l/libwaylib/libwaylib_0.6.11_mips64el.deb
+Size: 582188
+MD5sum: 335648e56a93e97685d6abcf87258449
+SHA1: 1c3693c930eb6961dc6f6553bd8f5de1fdb24aa4
+SHA256: 601e09eb7d7dcd360da0c2c37a2a7729848489ca3da7aee38344dab8fa61cbc1
+SHA512: ccb47ae2f76c489d03208df680e038b22643adeaef67d26fc3198ec1f3ff242155a1b87ae9e8a0d0a01e303b3ced8b5daf2126756a165408a55f997841a8ac11
+Description: A wrapper for wlroots based on Qt
+ .
+ This package contains the shared libraries.
+

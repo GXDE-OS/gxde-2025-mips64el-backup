@@ -1,0 +1,18 @@
+Package: linglong-pica
+Architecture: mips64el
+Version: 1.2.4-1
+Priority: optional
+Section: admin
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 33587
+Depends: linglong-builder, grep, jq, ostree, python3, python3-yaml, flatpak, apt-file, coreutils, zstd
+Filename: ./deb/linglong-pica_1.2.4-1_mips64el.deb
+Size: 6524804
+MD5sum: 7be44733720e1caea2bbaf58ada7f08e
+SHA1: 3a1e8e51a34210b261df4c837b31088c9791dc33
+SHA256: 11c8aa6387a6e033480de334908d790db279b7fbb219141cec44e1ebc9e8b8a3
+SHA512: 70b015ac8ff940b1250acd47059c846ebd53579a0197328875481076d79a26f924d96f1b8d175916517092ef13b9322cdafd1b8ceefd6ee91619fcf99522a5fb
+Homepage: http://www.deepin.org
+Description: Linglong transform package tools.
+ Linglong transform package command line tool from deb.
+

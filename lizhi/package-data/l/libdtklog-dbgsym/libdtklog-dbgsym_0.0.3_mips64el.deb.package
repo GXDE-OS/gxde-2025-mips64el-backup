@@ -1,0 +1,20 @@
+Package: libdtklog-dbgsym
+Architecture: mips64el
+Version: 0.0.3
+Auto-Built-Package: debug-symbols
+Multi-Arch: same
+Priority: optional
+Section: debug
+Source: dtklog
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 1273
+Depends: libdtklog (= 0.0.3)
+Filename: ./l/libdtklog-dbgsym/libdtklog-dbgsym_0.0.3_mips64el.deb
+Size: 1244524
+MD5sum: 41e569da04fcad1b3f7a7c3051ac8305
+SHA1: a01649033f2ef588441fe2a7b1e56e27ea89bf30
+SHA256: be85a978be92d06521577d030654004cdad56dd95d4d7abdbe9de1130835bb51
+SHA512: 7508536823b9eb7083120f49ca42566dda96e8bf59c0dd1b04d293f29f67ac1b840e25eb0ad5409b7aca00cc1e64c88072a4f3b87749d595d4a906392e40adeb
+Description: debug symbols for libdtklog
+Build-Ids: 36a85f4fee69f23212bd92342832bf4a317458a1
+

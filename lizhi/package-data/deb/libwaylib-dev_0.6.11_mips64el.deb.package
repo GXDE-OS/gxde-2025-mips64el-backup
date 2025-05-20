@@ -1,0 +1,19 @@
+Package: libwaylib-dev
+Architecture: mips64el
+Version: 0.6.11
+Priority: optional
+Section: libdevel
+Source: waylib
+Maintainer: JiDe Zhang <zhangjide@deepin.org>
+Installed-Size: 212
+Depends: libwaylib (= 0.6.11), libwlroots-0.18-dev, qt6-base-dev-tools (>= 6.6.0), qt6-base-private-dev (>= 6.6.0), qt6-declarative-private-dev (>= 6.6.0), wlr-protocols
+Filename: ./deb/libwaylib-dev_0.6.11_mips64el.deb
+Size: 29464
+MD5sum: 1260d683dd714fbbd02ee83e35ab1c0f
+SHA1: d1471c4b60c00c8218479df2936d10f3fc92aa48
+SHA256: f8bdaa894b74a2d59916294e1ffabbdaef898cae720040f9165aa3f285f99ab5
+SHA512: 4b29bbc91d7a82a8c203fd0358f79db8623e1998fac26b8df503d0f5fa796cf0536255cbcb1e143f6344edd5399db104aa7519e9bab84819f7eb549d37b13a3a
+Description: A devel package for libwaylib
+ .
+ This package contains the header files and static libraries of waylib.
+

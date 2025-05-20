@@ -1,0 +1,19 @@
+Package: linglong-box
+Architecture: mips64el
+Version: 1.8.1-1
+Priority: optional
+Section: admin
+Source: linglong
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 746
+Depends: libc6 (>= 2.38), libcap2 (>= 1:2.10), libgcc-s1 (>= 3.0), libseccomp2 (>= 2.1.0), libstdc++6 (>= 14)
+Filename: ./deb/linglong-box_1.8.1-1_mips64el.deb
+Size: 173360
+MD5sum: 165ab62572835c8cd0a481a6fd72fe66
+SHA1: bfcb949b0e4887d98111ad969ab9559eafa92c90
+SHA256: 3611aa92bf3e6fa35f4e4930a3ef2bddbe81f7f473ec9c7541216cdca29235ca
+SHA512: 8e4ada20962ee7675aa86a48c11a49072395e7cb38b103f1bbb6fda4ef5e7f3bb183874e2a3d503de541ff87f362166c3114bd7e618bb7ddccedab8eaf7cf76a
+Homepage: http://www.deepin.org
+Description: Deepin sandbox with OCI standard.
+ Deepin sandbox...
+

@@ -1,0 +1,19 @@
+Package: dde-file-manager-dbgsym
+Architecture: mips64el
+Version: 4.8.40
+Auto-Built-Package: debug-symbols
+Priority: optional
+Section: debug
+Source: dde-file-manager
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 17764
+Depends: dde-file-manager (= 4.8.40)
+Filename: ./deb/dde-file-manager-dbgsym_4.8.40_mips64el.deb
+Size: 16723276
+MD5sum: 7162f18d105389c305c89c298c7b3b44
+SHA1: f1fbfa08773e97f6a6173a914d3246bb7ff6399c
+SHA256: 44759665c4ff6df14974f0d17e39b195caed2e2331406b5a1943aef6d7bb0153
+SHA512: 3ca2080ee3612ec4c99a2f082f2c797179ee227d9d493a3bfce6101628c181ffc272c7433fefa1f511164b7c3a99fa3b816a41cbd08cc70280c67bd35b62c12b
+Description: debug symbols for dde-file-manager
+Build-Ids: 09fb250676fa5d43bbd6cfc4e7c09ac400215c2d 86fa26a6407b91efe4d5578e8a90a54df90a7718 d3f83b5e0a67aaf0fc920e8d0f296764c3b79575
+

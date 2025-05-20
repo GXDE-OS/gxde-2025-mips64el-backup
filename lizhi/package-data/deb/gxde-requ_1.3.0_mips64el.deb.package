@@ -1,0 +1,22 @@
+Package: gxde-requ
+Architecture: mips64el
+Version: 1.3.0
+Multi-Arch: foreign
+Priority: optional
+Section: utils
+Maintainer: shenmo<shenmo@spark-app.store>
+Installed-Size: 110
+Provides: dde-requ
+Depends: libc6 (>= 2.34), libgcc-s1 (>= 3.0), libqt5core5t64 (>= 5.5.0), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.0.2) | libqt5gui5-gles (>= 5.0.2), libqt5widgets5t64 (>= 5.0.2), libstdc++6 (>= 4.1.1), gxde-k9 (>= 1.6.0), xdotool, x11-utils
+Conflicts: dde-requ
+Replaces: dde-requ
+Filename: ./deb/gxde-requ_1.3.0_mips64el.deb
+Size: 28264
+MD5sum: 6a3b52b0614910b18a68ff0ee7a25c8f
+SHA1: a9c0ba0854fddc5cca100208c8f5a95e7a755982
+SHA256: f8aa08c136c00eab92d87599d4004f11f7f68c4577f36df105af03de3da3a80a
+SHA512: a391044b6a71715924f0852af93fc885cc7063a2a236a3dbbf757c72031702724bd43df2d4f813bac7c7a55da8d5ee42c5f8e04b83ab83b97e6624cf5398580e
+Homepage: https://gitee.com/GXDE-OS/gxde-requ
+Description: A tool to start 热区
+ A tool to start 热区
+

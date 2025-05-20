@@ -1,0 +1,18 @@
+Package: linux-kernel-oldstable-gxde-mips64el
+Architecture: mips64el
+Version: 2025.04.26
+Priority: optional
+Section: utils
+Source: linux-kernel-gxde
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 9
+Depends: linux-headers-4.19.0-loongson-3-desktop, linux-image-4.19.0-loongson-3-desktop
+Filename: ./deb/linux-kernel-oldstable-gxde-mips64el_2025.04.26_mips64el.deb
+Size: 2440
+MD5sum: a90a6d0a799f309658a217934ff0a89f
+SHA1: 87c875816f73c98fd5e610ed70b0ab269787c8da
+SHA256: 6ed98146e139d00f186b241a3aedd4abb411740da04e86d3df66a55c64b9c95e
+SHA512: 42dc5806f71a64e385c51e51a92d87b72bea47c4ee8624453047095fd784e7de6ae85bda13f2f4ad06199d67cf3ec207d9d51a9b8ddc10dc6e478d40ec6b29de
+Homepage: https://gitee.com/GXDE-OS/linux-kernel-gxde
+Description: GXDE Kernel For mips64el
+

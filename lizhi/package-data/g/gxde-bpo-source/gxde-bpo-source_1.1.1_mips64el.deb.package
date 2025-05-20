@@ -1,0 +1,17 @@
+Package: gxde-bpo-source
+Architecture: mips64el
+Version: 1.1.1
+Priority: optional
+Section: utils
+Maintainer: gfdgd_xi <3025613752@qq.com>
+Installed-Size: 17
+Depends: systemd (>= 254.22-1~bpo12+1), systemd (<< 257.2-2)
+Filename: ./g/gxde-bpo-source/gxde-bpo-source_1.1.1_mips64el.deb
+Size: 4124
+MD5sum: 914f419603440f0b71352bf9d57a981e
+SHA1: af16b8900abbe59ef75799327405e41563e9e88e
+SHA256: 9923cd33060c05c5e823c7a466eb15116fdaea372b105a1e92b52c1e3b8b5d9b
+SHA512: 1a5f9a04854afc5b30aae704c58b3b29d91f52d7f3f5ac884377b9a368916ef5dbe8905d90c941a02d74f9e57638df771e3753b3836c1013daf22def756de5a8
+Homepage: https://gitee.com/GXDE-OS/gxde-bpo-source
+Description: GXDE Backport Source
+

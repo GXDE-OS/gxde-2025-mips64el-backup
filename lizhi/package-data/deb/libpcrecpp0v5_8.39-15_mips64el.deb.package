@@ -1,0 +1,23 @@
+Package: libpcrecpp0v5
+Architecture: mips64el
+Version: 2:8.39-15
+Multi-Arch: same
+Priority: optional
+Section: libs
+Source: pcre3
+Maintainer: Matthew Vernon <matthew@debian.org>
+Installed-Size: 208
+Conflicts: libpcre3 (<< 6.4-1.1), libpcrecpp0
+Replaces: libpcre3 (<< 6.4-1.1), libpcrecpp0
+Filename: ./deb/libpcrecpp0v5_8.39-15_mips64el.deb
+Size: 142756
+MD5sum: 55fd7e509f4f2eedd29dd030374d119e
+SHA1: 8296682a7816406753bf1e390e432fefa904b2d7
+SHA256: f6db008ebdb9051e02ef8fe29b264245b62a7aecf5fe3da94ba13d69e2167277
+SHA512: 55f224b5d55b3bbd718fb613b77925dd459d6d499654dbcab9b0a3c0f7d7f2027c1db2cfddebedb32e39da07b1d676e2923f5d961e9a98f5c1ffec592ed59274
+Description: Old Perl 5 Compatible Regular Expression Library - C++ runtime files
+ This is a C++ library of functions to support regular expressions whose syntax
+ and semantics are as close as possible to those of the Perl 5 language.
+ .
+ This package contains the C++ runtime library.
+

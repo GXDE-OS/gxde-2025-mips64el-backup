@@ -1,0 +1,18 @@
+Package: libdeepin-service-framework-dev
+Architecture: mips64el
+Version: 1.0.5
+Priority: optional
+Section: admin
+Source: deepin-service-manager
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Installed-Size: 18
+Depends: libdeepin-service-framework (= 1.0.5)
+Filename: ./deb/libdeepin-service-framework-dev_1.0.5_mips64el.deb
+Size: 3000
+MD5sum: ee05091745e2f898e7ee721fa37dee8c
+SHA1: c780f24a71051c5c323f584f276cb37c4fdc82c5
+SHA256: 040493c61232d01cbb8198ada644a23bba6907004aad70b5545bf8e3d9b1c418
+SHA512: 9ceb371d80d0237dea22fdb709280496f75a2d78b17eb5fd7c37a62c375fd006806b53569f9b9fc4b95e307254f8dfd309b38f6b8e023125ebc1a7cc8fe70f88
+Homepage: https://github.com/linuxdeepin
+Description: deepin desktop-environment - service frame for development
+

@@ -1,0 +1,19 @@
+Package: dde-file-manager
+Architecture: mips64el
+Version: 4.8.43
+Priority: optional
+Section: libdevel
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 1339
+Depends: libc6 (>= 2.34), libdde-file-manager (= 4.8.43), libdtkcore5 (>= 5.7.11), libdtklog0 (>= 0.0.3), libdtkwidget2 (>= 2:2.3.2), libgcc-s1 (>= 3.0), libpolkit-qt5-1-1 (>= 0.112.0), libqt5core5t64 (>= 5.15.1), libqt5dbus5t64 (>= 5.0.2), libqt5gui5t64 (>= 5.7.0) | libqt5gui5-gles (>= 5.7.0), libqt5network5t64 (>= 5.0.2), libqt5widgets5t64 (>= 5.0.2), libqt5x11extras5 (>= 5.6.0), libstdc++6 (>= 14), libx11-6, socat, libdtkcore2, libdisomaster, libisoburn1, gxde-compressor
+Recommends: dde-qt5integration, avfs
+Filename: ./deb/dde-file-manager_4.8.43_mips64el.deb
+Size: 244180
+MD5sum: ea8af0f6d56cd3011dbf32d94c9a7778
+SHA1: 301fe7eac3b76b6d14a1d9e3db27ea3c5ad66982
+SHA256: 8644cd3ef746766763e4f2d645913fa4585ee03b77abbccc5d8c27f2df4ae86d
+SHA512: a198ef06c2503a572a396dc1a554c8f7a02a9bc8fea49f41f78268ce6ef0aeac870d43fd120dd2643f00026110292a2b3f1e04e17095c4eda0fd0deaae23a27d
+Homepage: http://www.deepin.org
+Description: File manager front end
+ File manager front-end of Deepin OS
+

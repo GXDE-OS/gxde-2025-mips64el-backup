@@ -1,0 +1,23 @@
+Package: dde-session-ui
+Architecture: mips64el
+Version: 4.9.23
+Priority: optional
+Section: devel
+Maintainer: gfdgd xi <3025613752@qq.com>
+Installed-Size: 12120
+Provides: lightdm-greeter
+Depends: libc6 (>= 2.34), libdframeworkdbus2 (>= 5.5.5), libdtkcore5 (>= 5.6), libdtkwidget2 (>= 15.14.1), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.30.0), libgsettings-qt1 (>= 0.1+14.04.20140408), liblightdm-qt5-3-0 (>= 1.18.3), libqt5core5a (>= 5.15.1), libqt5dbus5 (>= 5.14.1), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5sql5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5widgets5 (>= 5.15.1), libqt5x11extras5 (>= 5.6.0), libqt5xml5 (>= 5.0.2), libstdc++6 (>= 5.2), libsystemd0, libx11-6 (>= 2:1.2.99.901), libxcb-ewmh2 (>= 0.4.1), libxcursor1 (>> 1.1.2), libxfixes3, libxi6 (>= 2:1.2.99.4), libxrandr2 (>= 2:1.2.99.2), libxtst6, deepin-desktop-schemas (>= 2.91.2), dde-daemon, x11-xserver-utils, dbus-x11
+Recommends: onboard
+Conflicts: dde-workspace, deepin-notifications, startdde (<< 2.91.1)
+Breaks: dde-workspace, startdde (<< 2.91.1)
+Replaces: deepin-notifications
+Filename: ./d/dde-session-ui/dde-session-ui_4.9.23_mips64el.deb
+Size: 1972060
+MD5sum: bf5d0fbeff3a79e7bf826a21cc4c0318
+SHA1: 12c1a2c6848e3ab7adc5a803b404fdabdd280e99
+SHA256: 50811e61d581ec0fb692379c8504331e936955c1631c17467edcc6b6aeba80dd
+SHA512: bad858835356ecfc5818fe2f5c056e259d218bdda35362fc76d2c52b182a586a4eda842a12d8a1a8b6bb17da9bdaa4985f36741c33296ff2109fcf5d7a714ea0
+Homepage: http://www.deepin.org/
+Description: deepin desktop-environment - dde-session-ui module
+ Deepin desktop environment 2015 - dde-session-ui module.
+

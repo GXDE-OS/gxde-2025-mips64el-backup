@@ -1,0 +1,18 @@
+Package: libgxtklog-dev
+Architecture: mips64el
+Version: 0.0.2
+Priority: optional
+Section: libdevel
+Source: gxtklog
+Maintainer: Deepin Packages Builder <packages@deepin.com>
+Installed-Size: 54
+Depends: libgxtklog (= 0.0.2)
+Filename: ./l/libgxtklog-dev/libgxtklog-dev_0.0.2_mips64el.deb
+Size: 9040
+MD5sum: fddda63eceee3d3ea6775333188ab169
+SHA1: 979529a7fffebe22f704c3059c34881a559ef789
+SHA256: 626573f4af1fa81cfb44aa972b3ef6adc51089203f8b14b33d99a9d8b242553f
+SHA512: 7b18bad5da50b32812ae88acb577436220cc06b69eda7bc97eeb6683f58f62dd6a8bfddb18eed66aa831d4b7117a11de2023cf231c6fe89f7fe7a79809eae0bc
+Description: Simple, convinient and thread safe logger for Qt-based C++ apps.
+ This package contains the header files and static libraries of dlog
+
