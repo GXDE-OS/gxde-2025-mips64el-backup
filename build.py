@@ -37,14 +37,14 @@ def Write(path: str):
             i == "404.html" or i == "403.html" or i == "500.html" or i == "502.html" or i[0] == "." or i == "favicon.ico"):
             continue
         if os.path.isdir(f"{path}/{i}"):
-            htmlstring += f'\n          <li><a href="{i}/"><img src="/.icons/folder.svg" width=20px style="width=20px;vertical-align:middle;">  {i}/</a></li>'
+            htmlstring += f'\n          <li><a href="{i}/"><img src="/icons/folder.svg" width=20px style="width=20px;vertical-align:middle;">  {i}/</a></li>'
         else:
             if ".deb" == os.path.splitext(i)[1]:
-                htmlstring += f'\n          <li><a href="{i}"><img src="/.icons/deb.svg" width=20px style="width=20px;vertical-align:middle;">  {i}</a></li>'
+                htmlstring += f'\n          <li><a href="{i}"><img src="/icons/deb.svg" width=20px style="width=20px;vertical-align:middle;">  {i}</a></li>'
             elif ".jpg" == os.path.splitext(i)[1]:
-                htmlstring += f'\n          <li><a href="{i}"><img src="/.icons/image-jpeg.svg" width=20px style="width=20px;vertical-align:middle;">  {i}</a></li>'
+                htmlstring += f'\n          <li><a href="{i}"><img src="/icons/image-jpeg.svg" width=20px style="width=20px;vertical-align:middle;">  {i}</a></li>'
             else:
-                htmlstring += f'\n          <li><a href="{i}"><img src="/.icons/text-x-source.svg" width=20px style="width=20px;vertical-align:middle;">  {i}</a></li>'
+                htmlstring += f'\n          <li><a href="{i}"><img src="/icons/text-x-source.svg" width=20px style="width=20px;vertical-align:middle;">  {i}</a></li>'
     htmlstring += f"""     </ul>
         <hr/>
         <h1 id="copyright">©2024~2025 gfdgd xi</h1>
